@@ -22,11 +22,11 @@
         <p class="app-title">Peter Mac Multilingual Glossary</p>
         <p class="app-subtitle">Cancer &amp; medical terminology</p>
       </div>
-      <span class="lang-badge" id="langBadge">简体中文</span>
+      <select class="lang-badge" id="langSelect" aria-label="Display language"></select>
     </div>
     <div class="search-wrap" id="searchWrap">
       <input id="searchInput" type="search" inputmode="search" autocomplete="off" autocorrect="off" spellcheck="false"
-        placeholder="Search English, Chinese, or definitions…">
+        placeholder="Search any language, or definitions…">
       <button class="clear-btn" id="clearBtn" aria-label="Clear search">✕</button>
     </div>
   </div>
@@ -38,9 +38,11 @@
   <div id="list"></div>
 </main>
 
+<button class="back-to-top" id="backToTop">↑ Back to search</button>
+
 <footer class="app-footer">
   <strong>Peter Mac Multilingual Glossary</strong> — digitised for offline personal reference from the
-  <em>Multilingual Cancer Glossary (Chinese – Simplified)</em>, published by the Australian Cancer Survivorship
+  <em>Multilingual Cancer Glossary</em> (9 language editions), published by the Australian Cancer Survivorship
   Centre, A Richard Pratt Legacy, Peter MacCallum Cancer Centre, developed through a Cancer Australia
   <em>Supporting people with cancer</em> Grant initiative.
   <br><br>

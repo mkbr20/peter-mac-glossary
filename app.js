@@ -5,6 +5,7 @@
     entries: [],
     languages: [],
     query: "",
+    currentLang: "zh",
   };
 
   var el = {
@@ -22,7 +23,8 @@
     aboutModal: document.getElementById("aboutModal"),
     aboutModalClose: document.getElementById("aboutModalClose"),
     aboutModalBody: document.getElementById("aboutModalBody"),
-    langBadge: document.getElementById("langBadge"),
+    langSelect: document.getElementById("langSelect"),
+    backToTop: document.getElementById("backToTop"),
   };
 
   function escapeHtml(s) {
@@ -104,25 +106,31 @@
   }
 
   function entryCardHtml(entry, q) {
-    var zhCode = "zh";
-    var zhText = entry.translations[zhCode] || "";
+    var curCode = state.currentLang;
+    var curInfo = langInfo(curCode);
+    var curText = entry.translations[curCode] || "";
+    var isRtl = !!(curInfo && curInfo.rtl);
     var def = entry.definition ? highlight(entry.definition, q) :
       '<span class="entry-def empty">No definition given in the source glossary.</span>';
     var defHtml = entry.definition ? ('<div class="entry-def">' + def + "</div>") : ('<div class="entry-def empty">No definition given in the source glossary.</div>');
+
+    var translationHtml = curText
+      ? ('<span class="entry-translation"' + (isRtl ? ' dir="rtl"' : '') + '>' + highlight(curText, q) + "</span>")
+      : '<span class="entry-translation empty">No ' + (curInfo ? curInfo.name : curCode) + " translation in the source glossary.</span>";
 
     var verifyBtns = "";
     for (var code in entry.sourcePages) {
       var li = langInfo(code);
       var label = li ? li.native : code;
       verifyBtns += '<button class="verify-btn" data-lang="' + code + '" data-page="' + entry.sourcePages[code] +
-        '" data-title="' + escapeHtml(entry.en) + '">🔍 View source page (' + label + ")</button>";
+        '" data-title="' + escapeHtml(entry.en) + '">🔍 ' + label + "</button>";
     }
 
     return (
       '<div class="entry-card" data-id="' + entry.id + '">' +
         '<div class="entry-top">' +
           '<span class="entry-en">' + highlight(entry.en, q) + "</span>" +
-          '<span class="entry-zh">' + highlight(zhText, q) + "</span>" +
+          translationHtml +
         "</div>" +
         defHtml +
         '<div class="entry-actions">' + verifyBtns + "</div>" +
@@ -154,7 +162,7 @@
       filtered.sort(function (a, b) { return rankScore(a, q) - rankScore(b, q) || a.en.localeCompare(b.en); });
       el.resultMeta.textContent = filtered.length + " match" + (filtered.length === 1 ? "" : "es") + ' for "' + q + '"';
       if (filtered.length === 0) {
-        el.list.innerHTML = '<div class="no-results">No matches. Try a different English or Chinese term.</div>';
+        el.list.innerHTML = '<div class="no-results">No matches. Try a different term, in any language.</div>';
       } else {
         el.list.innerHTML = filtered.map(function (e) { return entryCardHtml(e, q); }).join("");
       }
@@ -188,23 +196,31 @@
   });
 
   function aboutHtml() {
+    var langList = state.languages.map(function (l) { return l.name; }).join(", ");
     return (
       "<h2>What this is</h2>" +
       "<p>A mobile-friendly, offline-capable digitisation of the printed <em>Multilingual Cancer Glossary</em> " +
       "produced by the Australian Cancer Survivorship Centre (A Richard Pratt Legacy) at Peter MacCallum Cancer " +
       "Centre, developed through a Cancer Australia <em>Supporting people with cancer</em> Grant initiative. " +
-      "The Chinese (Simplified) edition is included first; the tool is built so further language editions of the " +
-      "same glossary can be added later.</p>" +
+      "All 9 published language editions are included: " + escapeHtml(langList) + ". Use the language selector " +
+      "in the header to choose which translation is shown on each entry — search works across every language " +
+      "at once regardless of which one is selected.</p>" +
 
       "<h2>Verifying entries</h2>" +
-      "<p>Every entry links to an image of the actual page it was taken from in the source PDF, so you can check " +
-      "any term or translation against the original at any time via \"View source page\".</p>" +
+      "<p>Every entry links to an image of the actual page it was taken from in each language's source PDF, so " +
+      "you can check any term or translation against the original at any time via the 🔍 buttons under each entry.</p>" +
 
       "<h2>Known source gap</h2>" +
-      "<p>During digitisation, one page of the original PDF (glossary page 53, falling alphabetically between " +
-      "“pleural cavity” and “protocol”) was found to be duplicated in place of the correct page — the " +
-      "source document itself appears to be missing that page's content, so a small number of P-terms are not " +
-      "included here. This is a defect in the source PDF, not in this app's extraction.</p>" +
+      "<p>During digitisation, one page of the original Chinese (Simplified) PDF (glossary page 53, falling " +
+      "alphabetically between “pleural cavity” and “protocol”) was found to be duplicated in place of the correct " +
+      "page — the source document itself appears to be missing that page's content, so a small number of P-terms " +
+      "are not included here. This is a defect in the source PDF, not in this app's extraction.</p>" +
+
+      "<h2>Vietnamese translations</h2>" +
+      "<p>The Vietnamese source PDF's text layer was missing diacritics and, in some cases, whole characters, for " +
+      "many entries. About 125 Vietnamese translations were recovered using image-based OCR on the original page " +
+      "rather than the PDF's text layer. If you rely on a Vietnamese translation for something important, please " +
+      "use \"view source page\" to double-check it against the original scan.</p>" +
 
       "<h2>Disclaimer</h2>" +
       "<p>This information is a guide only, is not fully comprehensive, and is not intended to diagnose, treat, " +
@@ -224,11 +240,24 @@
       state.entries = results[0].sort(function (a, b) { return a.en.toLowerCase().localeCompare(b.en.toLowerCase()); });
       state.languages = results[1];
 
-      if (state.languages.length === 1) {
-        el.langBadge.textContent = state.languages[0].native;
-      } else {
-        el.langBadge.textContent = state.languages.length + " languages";
+      var saved = null;
+      try { saved = localStorage.getItem("pmGlossaryLang"); } catch (e) {}
+      if (saved && langInfo(saved)) {
+        state.currentLang = saved;
+      } else if (!langInfo(state.currentLang) && state.languages.length) {
+        state.currentLang = state.languages[0].code;
       }
+
+      el.langSelect.innerHTML = state.languages.map(function (l) {
+        return '<option value="' + l.code + '"' + (l.code === state.currentLang ? " selected" : "") + ">" +
+          escapeHtml(l.native) + "</option>";
+      }).join("");
+
+      el.langSelect.addEventListener("change", function () {
+        state.currentLang = el.langSelect.value;
+        try { localStorage.setItem("pmGlossaryLang", state.currentLang); } catch (e) {}
+        render();
+      });
 
       buildAzBar();
       render();
@@ -262,6 +291,20 @@
     });
     el.aboutModalClose.addEventListener("click", function () {
       el.aboutModal.classList.remove("open");
+    });
+
+    var scrollThrottle = null;
+    window.addEventListener("scroll", function () {
+      if (scrollThrottle) return;
+      scrollThrottle = setTimeout(function () {
+        el.backToTop.classList.toggle("visible", window.scrollY > 400);
+        scrollThrottle = null;
+      }, 100);
+    });
+
+    el.backToTop.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      setTimeout(function () { el.searchInput.focus(); }, 350);
     });
   }
 

@@ -1,9 +1,11 @@
 [
-  {
-    "code": "zh",
-    "name": "Chinese (Simplified)",
-    "native": "简体中文",
-    "pagesDir": "pages/zh",
-    "sourceTitle": "Multilingual Cancer Glossary — Chinese (Simplified)"
-  }
+  { "code": "zh", "name": "Chinese (Simplified)", "native": "简体中文", "pagesDir": "pages/zh", "sourceTitle": "Multilingual Cancer Glossary — Chinese (Simplified)" },
+  { "code": "zh-tw", "name": "Chinese (Traditional)", "native": "繁體中文", "pagesDir": "pages/zh-tw", "sourceTitle": "Multilingual Cancer Glossary — Chinese (Traditional)" },
+  { "code": "ar", "name": "Arabic", "native": "العربية", "pagesDir": "pages/ar", "sourceTitle": "Multilingual Cancer Glossary — Arabic", "rtl": true },
+  { "code": "fr", "name": "French", "native": "Français", "pagesDir": "pages/fr", "sourceTitle": "Multilingual Cancer Glossary — French" },
+  { "code": "el", "name": "Greek", "native": "Ελληνικά", "pagesDir": "pages/el", "sourceTitle": "Multilingual Cancer Glossary — Greek" },
+  { "code": "hi", "name": "Hindi", "native": "हिन्दी", "pagesDir": "pages/hi", "sourceTitle": "Multilingual Cancer Glossary — Hindi" },
+  { "code": "it", "name": "Italian", "native": "Italiano", "pagesDir": "pages/it", "sourceTitle": "Multilingual Cancer Glossary — Italian" },
+  { "code": "es", "name": "Spanish", "native": "Español", "pagesDir": "pages/es", "sourceTitle": "Multilingual Cancer Glossary — Spanish" },
+  { "code": "vi", "name": "Vietnamese", "native": "Tiếng Việt", "pagesDir": "pages/vi", "sourceTitle": "Multilingual Cancer Glossary — Vietnamese" }
 ]
