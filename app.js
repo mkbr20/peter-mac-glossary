@@ -119,11 +119,11 @@
       : '<span class="entry-translation empty">No ' + (curInfo ? curInfo.name : curCode) + " translation in the source glossary.</span>";
 
     var verifyBtns = "";
-    for (var code in entry.sourcePages) {
-      var li = langInfo(code);
-      var label = li ? li.native : code;
-      verifyBtns += '<button class="verify-btn" data-lang="' + code + '" data-page="' + entry.sourcePages[code] +
-        '" data-title="' + escapeHtml(entry.en) + '">🔍 ' + label + "</button>";
+    var curPage = entry.sourcePages[curCode];
+    if (curPage) {
+      var curLabel = curInfo ? curInfo.native : curCode;
+      verifyBtns = '<button class="verify-btn" data-lang="' + curCode + '" data-page="' + curPage +
+        '" data-title="' + escapeHtml(entry.en) + '">🔍 View source page (' + curLabel + ")</button>";
     }
 
     return (
@@ -133,7 +133,7 @@
           translationHtml +
         "</div>" +
         defHtml +
-        '<div class="entry-actions">' + verifyBtns + "</div>" +
+        (verifyBtns ? ('<div class="entry-actions">' + verifyBtns + "</div>") : "") +
       "</div>"
     );
   }
