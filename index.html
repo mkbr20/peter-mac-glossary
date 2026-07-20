@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#012061">
+<title>Peter Mac Multilingual Glossary</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="PM Glossary">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-inner">
+    <div class="title-row">
+      <div>
+        <p class="app-title">Peter Mac Multilingual Glossary</p>
+        <p class="app-subtitle">Cancer &amp; medical terminology</p>
+      </div>
+      <span class="lang-badge" id="langBadge">简体中文</span>
+    </div>
+    <div class="search-wrap" id="searchWrap">
+      <input id="searchInput" type="search" inputmode="search" autocomplete="off" autocorrect="off" spellcheck="false"
+        placeholder="Search English, Chinese, or definitions…">
+      <button class="clear-btn" id="clearBtn" aria-label="Clear search">✕</button>
+    </div>
+  </div>
+  <div class="az-bar" id="azBar"></div>
+</header>
+
+<main id="main">
+  <div class="result-meta" id="resultMeta"></div>
+  <div id="list"></div>
+</main>
+
+<footer class="app-footer">
+  <strong>Peter Mac Multilingual Glossary</strong> — digitised for offline personal reference from the
+  <em>Multilingual Cancer Glossary (Chinese – Simplified)</em>, published by the Australian Cancer Survivorship
+  Centre, A Richard Pratt Legacy, Peter MacCallum Cancer Centre, developed through a Cancer Australia
+  <em>Supporting people with cancer</em> Grant initiative.
+  <br><br>
+  Not fully comprehensive and not intended to diagnose, treat, cure or prevent any medical condition.
+  For medical advice, contact your local doctor or Peter Mac on 03 8559 5000.
+  <br><br>
+  <button class="about-link" id="aboutLink">About this app &amp; source</button>
+</footer>
+
+<!-- Source page image modal -->
+<div class="modal-overlay" id="imgModal">
+  <div class="modal-header">
+    <span id="imgModalTitle">Source page</span>
+    <button id="imgModalClose">Close</button>
+  </div>
+  <div class="modal-hint">Tap the page to zoom in for detail, tap again to zoom out</div>
+  <div class="modal-body">
+    <img id="imgModalImg" class="fit-width" src="" alt="Source glossary page">
+  </div>
+</div>
+
+<!-- About modal -->
+<div class="modal-overlay" id="aboutModal">
+  <div class="modal-header">
+    <span>About</span>
+    <button id="aboutModalClose">Close</button>
+  </div>
+  <div class="about-modal-body" id="aboutModalBody"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
