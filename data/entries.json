@@ -1,0 +1,7625 @@
+[
+ {
+  "id": "abdominoperineal-ap-resection-0",
+  "en": "abdominoperineal (AP) resection",
+  "definition": "Surgery to remove the anus, rectum, and sigmoid colon. Most often used to treat cancers located very low in the rectum or in the anus.",
+  "translations": {
+   "zh": "经腹会阴直肠切除术"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "ablation-1",
+  "en": "ablation",
+  "definition": "Destroys a tumour without removing it. Ablation may be performed by surgery, hormones, drugs, radiofrequency, heat, or other methods that destroy cancer cells.",
+  "translations": {
+   "zh": "消融（术）、烧灼（术）"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "accelerated-radiotherapy-2",
+  "en": "accelerated radiotherapy",
+  "definition": "Where the total dose of radiation is divided into small doses and given more than once a day. The total dose of radiation is given over a shorter period of time compared to standard radiation therapy",
+  "translations": {
+   "zh": "加速放疗"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "acral-lentiginous-melanoma-3",
+  "en": "acral lentiginous melanoma",
+  "definition": "A type of melanoma arising on the palms or soles.",
+  "translations": {
+   "zh": "肢端雀斑样黑色素瘤"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "active-surveillance-4",
+  "en": "active surveillance",
+  "definition": "are changes in test results that show the condition is getting worse.",
+  "translations": {
+   "zh": "主动监测"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "acute-lymphoblastic-leukaemia-all-5",
+  "en": "acute lymphoblastic leukaemia (ALL)",
+  "definition": "A type of blood cancer characterised by an overproduction of immature white blood cells, called lymphoblasts. Also called acute lymphocytic leukaemia.",
+  "translations": {
+   "zh": "急性淋巴细胞白血病"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "acute-myeloid-leukaemia-aml-6",
+  "en": "acute myeloid leukaemia (AML)",
+  "definition": "A type of blood cancer characterised by an overproduction of immature white blood cells, called myeloblasts.",
+  "translations": {
+   "zh": "急性骨髓性白血病"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "acute-promyelocytic-leukaemia-apml-7",
+  "en": "acute promyelocytic leukaemia (APML)",
+  "definition": "A type of blood cancer characterised by a switching of two chromosomes within the DNA (chromosomes 15 and 17). Part of the same family as acute myeloid leukaemia (AML); however, is treated differently to other types of AML.",
+  "translations": {
+   "zh": "急性早幼粒细胞白血病"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "adenocarcinoma-8",
+  "en": "adenocarcinoma",
+  "definition": "Cancer that begins in glandular (secretory) cells. Most cancers of the breast, pancreas, lung, prostate, and colon are adenocarcinomas.",
+  "translations": {
+   "zh": "腺癌"
+  },
+  "sourcePages": {
+   "zh": 4
+  }
+ },
+ {
+  "id": "adenoma-9",
+  "en": "adenoma",
+  "definition": "A benign tumour that arises in or resembles glandular tissue. If an adenoma becomes cancerous, it is called an adenocarcinoma.",
+  "translations": {
+   "zh": "腺瘤"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adenopathy-10",
+  "en": "adenopathy",
+  "definition": "Large or swollen lymph nodes.",
+  "translations": {
+   "zh": "腺病(腺肿大，尤指淋巴结肿大)"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adenosquamous-carcinoma-11",
+  "en": "adenosquamous carcinoma",
+  "definition": "A type of cancer that contains two types of cells: squamous cells (thin, flat cells that line certain organs) and gland- like cells.",
+  "translations": {
+   "zh": "腺鳞癌"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adhesion-cellular-12",
+  "en": "adhesion (cellular)",
+  "definition": "The close adherence (bonding) to adjoining cell surfaces.",
+  "translations": {
+   "zh": "（细胞间）粘连"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adhesion-general-13",
+  "en": "adhesion (general)",
+  "definition": "An abnormal adhering of surfaces due to inflammation or injury.",
+  "translations": {
+   "zh": "粘连（通称）"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adjuvant-therapy-14",
+  "en": "adjuvant therapy",
+  "definition": "Treatment given in addition to surgery and radiation to treat breast cancer that may have spread to other parts of the body. It may include chemotherapy, targeted therapy and/or hormone therapy",
+  "translations": {
+   "zh": "(癌症手术后的)后继治疗、辅助治疗"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adrenal-glands-15",
+  "en": "adrenal glands",
+  "definition": "Endocrine glands that produce a variety of hormones including adrenaline and the steroids aldosterone and cortisol. They are found above the kidneys.",
+  "translations": {
+   "zh": "肾上腺"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "advanced-breast-cancer-16",
+  "en": "advanced breast cancer",
+  "definition": "See metastatic breast cancer.",
+  "translations": {
+   "zh": "晚期乳癌"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "adverse-effects-17",
+  "en": "adverse effects",
+  "definition": "An undesired harmful effect resulting from a medication or other intervention such as surgery. An adverse effect may also be called a \"side effect\"",
+  "translations": {
+   "zh": "副作用；不良反应"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "aids-related-cancers-18",
+  "en": "AIDS-related cancers",
+  "definition": "Cancers that people with HIV/AIDS have a higher chance of developing. These include: Kaposi sarcoma, Non- Hodgkin lymphoma and Cervical cancer.",
+  "translations": {
+   "zh": "艾滋病相关癌症"
+  },
+  "sourcePages": {
+   "zh": 5
+  }
+ },
+ {
+  "id": "allergic-reaction-19",
+  "en": "allergic reaction",
+  "definition": "A condition where the immune system reacts abnormally to a foreign substance.",
+  "translations": {
+   "zh": "过敏反应"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "allied-health-professional-20",
+  "en": "allied health professional",
+  "definition": "Examples include psychologists, social workers, occupational therapists, physiotherapists and dietitians.",
+  "translations": {
+   "zh": "辅助医护专业人员"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "allogeneic-stem-cell-transplant-21",
+  "en": "allogeneic stem cell transplant",
+  "definition": "A procedure in which a person receives blood-forming stem cells (cells from which all blood cells develop) from a genetically similar, but not identical, donor.",
+  "translations": {
+   "zh": "异体造血干细胞移植"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "alopecia-22",
+  "en": "alopecia",
+  "definition": "Loss of hair from the head or body. A common side effect of chemotherapy.",
+  "translations": {
+   "zh": "脱发"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "alternative-therapies-23",
+  "en": "alternative therapies",
+  "definition": "Treatments that are used instead of standard (traditional) treatments . Alternative therapies may include special diets, megadose vitamins, herbal preparations, special teas, and magnet therapy.",
+  "translations": {
+   "zh": "替代疗法"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "anal-cancer-24",
+  "en": "anal cancer",
+  "definition": "A type of cancer that occurs in the anal canal.",
+  "translations": {
+   "zh": "肛门癌"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "anaplastic-thyroid-cancer-25",
+  "en": "anaplastic thyroid cancer",
+  "definition": "A rare, aggressive type of thyroid cancer in which the cancer cells look very different from normal thyroid cells.",
+  "translations": {
+   "zh": "甲状腺未分化癌"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "anastomosis-26",
+  "en": "anastomosis",
+  "definition": "The surgical connection of normally separate parts. For example, connecting the healthy sections of the colon or rectum after a cancerous or otherwise diseased portion has been surgically removed.",
+  "translations": {
+   "zh": "吻合术"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "androgen-deprivation-therapy-27",
+  "en": "androgen deprivation therapy",
+  "definition": "Therapy which acts by either stopping testosterone production or by blocking the action of testosterone on the cells and tissues.",
+  "translations": {
+   "zh": "雄激素去势治疗；雄激素阻断治疗"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "androgens-28",
+  "en": "androgens",
+  "definition": "Male sex hormones that increase at puberty. The most important androgen is testosterone.",
+  "translations": {
+   "zh": "雄激素"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "angiogenesis-tumour-29",
+  "en": "angiogenesis (tumour)",
+  "definition": "The growth of new blood vessels that tumours need to grow. This process is caused by the release of chemicals by the tumour and by host cells near the tumour.",
+  "translations": {
+   "zh": "血管新生（肿瘤）"
+  },
+  "sourcePages": {
+   "zh": 6
+  }
+ },
+ {
+  "id": "angiogenesis-inhibitors-30",
+  "en": "angiogenesis inhibitors",
+  "definition": "Medication that blocks angiogenesis. Examples include Bevacizumab (Avastin), Lenalidomide (Revlimid) and Thalidomide (Synovir, Thalomid). Also known as anti-angiogenics.",
+  "translations": {
+   "zh": "血管生成抑制剂"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "angiosarcoma-31",
+  "en": "angiosarcoma",
+  "definition": "A cancer of the inner lining of blood vessels. It can occur in any area of the body, most commonly in the skin, breast, liver, spleen, and deep tissue.",
+  "translations": {
+   "zh": "血管肉瘤"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "anterior-resection-32",
+  "en": "anterior resection",
+  "definition": "An operation to remove the rectum or a part of it.",
+  "translations": {
+   "zh": "前位切除术"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "antibody-33",
+  "en": "antibody",
+  "definition": "Proteins made by the immune system that bind to specific markers on cells or tissues, generally in response to infection or vaccination.",
+  "translations": {
+   "zh": "抗体"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "antibody-therapy-34",
+  "en": "antibody therapy",
+  "definition": "Treatment that uses antibodies to help the body fight cancer, infection, or other diseases.",
+  "translations": {
+   "zh": "抗体治疗"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "anticoagulant-35",
+  "en": "anticoagulant",
+  "definition": "An agent that is used to prevent the formation of blood clots.",
+  "translations": {
+   "zh": "抗凝血剂"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "antiemetic-36",
+  "en": "antiemetic",
+  "definition": "A drug that prevents or reduces nausea and vomiting.",
+  "translations": {
+   "zh": "止吐剂"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "antifungal-37",
+  "en": "antifungal",
+  "definition": "A drug that treats infections caused by fungi.",
+  "translations": {
+   "zh": "抗真菌剂"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "antigen-38",
+  "en": "antigen",
+  "definition": "A substance that causes the body to make an immune response. These include toxins, chemicals, bacteria, viruses, or other substances that come from outside the body.",
+  "translations": {
+   "zh": "抗原"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "anti-oestrogens-39",
+  "en": "anti-oestrogens",
+  "definition": "Medication that stops oestrogen in the body from attaching to cancer cells. One of the most well known is tamoxifen.",
+  "translations": {
+   "zh": "抗雌激素药"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "apheresis-40",
+  "en": "apheresis",
+  "definition": "A procedure where blood is temporarily taken from the body, one or more parts removed, then transfused back into the body. Also called pheresis or haemapheresis.",
+  "translations": {
+   "zh": "血液成分分离"
+  },
+  "sourcePages": {
+   "zh": 7
+  }
+ },
+ {
+  "id": "apoptosis-41",
+  "en": "apoptosis",
+  "definition": "A type of cell death in which a series of molecular steps in a cell lead to its death. Also called programmed cell death.",
+  "translations": {
+   "zh": "细胞凋亡"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "appendix-cancer-42",
+  "en": "appendix cancer",
+  "definition": "Cancer that occurs in the appendix tissue.",
+  "translations": {
+   "zh": "阑尾癌"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "areola-43",
+  "en": "areola",
+  "definition": "The coloured area of skin around the nipple.",
+  "translations": {
+   "zh": "乳晕"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "aromatase-inhibitors-44",
+  "en": "aromatase inhibitors",
+  "definition": "Hormone therapy drugs that lower oestrogen levels in the body. Used to treat postmenopausal women with hormone receptor positive breast cancer",
+  "translations": {
+   "zh": "芳香化酶抑制剂"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "asbestosis-45",
+  "en": "asbestosis",
+  "definition": "A chronic lung disease caused by inhaling asbestos fibres. Prolonged exposure to these fibres can cause lung tissue scarring and shortness of breath.",
+  "translations": {
+   "zh": "石棉肺；石棉沉滞症"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "ascites-46",
+  "en": "ascites",
+  "definition": "A build-up of fluid between the two layers (membranes) that form the lining of the abdomen",
+  "translations": {
+   "zh": "腹水"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "aspiration-diagnosis-47",
+  "en": "aspiration (diagnosis)",
+  "definition": "A type of biopsy procedure, used to help make a diagnosis or rule out conditions such as cancer. A thin needle is inserted into an area of abnormal-appearing tissue or body fluid to collect a sample. Types include fine needle or bone marrow aspiration.",
+  "translations": {
+   "zh": "穿刺活检(诊断法）"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "aspiration-side-effect-48",
+  "en": "aspiration (side effect)",
+  "definition": "A condition in which food, liquids, saliva or vomit is breathed into the airways.",
+  "translations": {
+   "zh": "误吸（副作用）"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "astrocytoma-49",
+  "en": "astrocytoma",
+  "definition": "brain.",
+  "translations": {
+   "zh": "星型细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "autologous-50",
+  "en": "autologous",
+  "definition": "Involving one individual as both donor and recipient. For example, an autologous blood transfusion or an autologous bone marrow transplant.",
+  "translations": {
+   "zh": "自体"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "autologous-stem-cell-transplant-51",
+  "en": "autologous stem cell transplant",
+  "definition": "Where a person's own blood-forming stem cells are collected and then later transplanted back into the patient, usually following treatment.",
+  "translations": {
+   "zh": "自体干细胞移植"
+  },
+  "sourcePages": {
+   "zh": 8
+  }
+ },
+ {
+  "id": "axilla-52",
+  "en": "axilla",
+  "definition": "The area under the arm or armpit.",
+  "translations": {
+   "zh": "腋窝"
+  },
+  "sourcePages": {
+   "zh": 9
+  }
+ },
+ {
+  "id": "axillary-dissection-clearance-53",
+  "en": "axillary dissection/clearance",
+  "definition": "A surgical procedure to remove some or all the lymph nodes under the arm so they can be examined under the microscope to check whether cancer cells are present.",
+  "translations": {
+   "zh": "腋窝淋巴结廓清术/切除术"
+  },
+  "sourcePages": {
+   "zh": 9
+  }
+ },
+ {
+  "id": "axillary-lymph-nodes-54",
+  "en": "axillary lymph nodes",
+  "definition": "The lymph nodes in the axilla, the area under the arm or armpit.",
+  "translations": {
+   "zh": "腋窝淋巴结"
+  },
+  "sourcePages": {
+   "zh": 9
+  }
+ },
+ {
+  "id": "bacillus-calmette-gu-rin-bcg-55",
+  "en": "Bacillus Calmette-Guérin (BCG)",
+  "definition": "An immunotherapy used for treating early-stage bladder cancer. BCG is put directly into the bladder through a catheter. The treatment triggers an inflammatory response in the bladder that can prevent the tumour from growing. Treatment is usually given once a week for 6 weeks.",
+  "translations": {
+   "zh": "卡介苗（BCG)"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "barium-enema-56",
+  "en": "barium enema",
+  "definition": "A diagnostic test used to detect cancer in the bowel. A white chalky liquid containing barium sulphate is put into the rectum and x-rays are taken.",
+  "translations": {
+   "zh": "钡灌肠检查、钡剂灌肠造影"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "barium-meal-57",
+  "en": "barium meal",
+  "definition": "A diagnostic test used to detect abnormalities of the stomach and small bowel. X-rays are taken after the patient drinks a liquid containing barium sulphate, which coats the inner walls of the gastrointestinal tract so they can be seen on X-ray.",
+  "translations": {
+   "zh": "钡餐"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "barium-swallow-58",
+  "en": "barium swallow",
+  "definition": "A diagnostic test used to detect abnormalities of the pharynx and the oesophagus. X-rays are taken after the patient drinks a liquid containing barium sulphate, which coats the inner walls of the gastrointestinal tract so that they can be seen on X-ray.",
+  "translations": {
+   "zh": "食管吞钡检查"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "basal-cell-59",
+  "en": "basal cell",
+  "definition": "A small, round cell found in the lower part (or base) of the epidermis, the outer layer of the skin.",
+  "translations": {
+   "zh": "基底细胞"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "basal-cell-carcinoma-bcc-60",
+  "en": "basal cell carcinoma (BCC)",
+  "definition": "A type of cancer that begins in the lower part of the epidermis (the outer layer of the skin). It may appear as a small white or flesh-coloured bump that grows slowly and may bleed. Also called basal cell cancer.",
+  "translations": {
+   "zh": "基底细胞癌（BCC)"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "baseline-61",
+  "en": "baseline",
+  "definition": "An initial measurement that is taken at an early time point to represent a beginning condition, and is used for comparison over time to look for changes. For example, the size of a tumour will be measured before treatment (baseline) and then afterwards to see if the treatment had an effect.",
+  "translations": {
+   "zh": "基准线"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "basement-membrane-62",
+  "en": "basement membrane",
+  "definition": "A thin, delicate membrane of protein fibres and mucopolysaccharides separating an epithelium from underlying tissue.",
+  "translations": {
+   "zh": "基膜"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "benign-63",
+  "en": "benign",
+  "definition": "Not cancerous.",
+  "translations": {
+   "zh": "良性的"
+  },
+  "sourcePages": {
+   "zh": 10
+  }
+ },
+ {
+  "id": "bilateral-64",
+  "en": "bilateral",
+  "definition": "Involving both sides, such as both breasts.",
+  "translations": {
+   "zh": "两侧的"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bile-duct-cancer-65",
+  "en": "bile duct cancer",
+  "definition": "A type of cancer that occurs in the bile duct, the slender tubes that carry bile (the digestive fluid) through the liver. Types of bile duct cancer include Klatskin tumours (also called perihilar cancers), intrahepatic, common and multifocal bile duct cancer.",
+  "translations": {
+   "zh": "胆管癌"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "biological-therapies-66",
+  "en": "biological therapies",
+  "definition": "A type of treatment that uses substances made from living organisms to treat disease. These substances may occur naturally in the body or may be made in the laboratory. Types of biological therapy include immunotherapy (such as vaccines, cytokines, and some antibodies), gene therapy, and some targeted therapies.",
+  "translations": {
+   "zh": "生物疗法"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "biopsy-67",
+  "en": "biopsy",
+  "definition": "The removal of a small amount of tissue for examination under a microscope.",
+  "translations": {
+   "zh": "活组织检查、活检"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bisphosphonates-68",
+  "en": "bisphosphonates",
+  "definition": "Drugs that help prevent or slow down bone thinning (osteoporosis). They can help to treat some types of cancer that cause bone damage.",
+  "translations": {
+   "zh": "双磷酸盐"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bladder-cancer-69",
+  "en": "bladder cancer",
+  "definition": "Cancer that occurs in the tissues of the bladder.",
+  "translations": {
+   "zh": "膀胱癌"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bone-cancer-70",
+  "en": "bone cancer",
+  "definition": "A type of cancer that occurs in the bone. The three main types of bone cancer are osteosarcoma, Ewing's sarcoma and chondrosarcoma.",
+  "translations": {
+   "zh": "骨癌"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bone-marrow-71",
+  "en": "bone marrow",
+  "definition": "The soft, fatty tissue inside the bones. Bone marrow produces blood cells.",
+  "translations": {
+   "zh": "骨髓"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bone-marrow-aspiration-72",
+  "en": "bone marrow aspiration",
+  "definition": "A procedure that removes a sample of the liquid portion of bone marrow for testing purposes.",
+  "translations": {
+   "zh": "骨髓穿刺"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bone-marrow-biopsy-73",
+  "en": "bone marrow biopsy",
+  "definition": "A procedure that removes a small, solid piece of bone marrow.",
+  "translations": {
+   "zh": "骨髓活检"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bone-marrow-transplant-74",
+  "en": "bone marrow transplant",
+  "definition": "A procedure to replace damaged or destroyed bone marrow with healthy bone marrow stem cells.",
+  "translations": {
+   "zh": "骨髓移植"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bone-scan-75",
+  "en": "bone scan",
+  "definition": "A nuclear medicine test which shows the effects of a disease, such as cancer, on the bones.",
+  "translations": {
+   "zh": "骨骼扫描"
+  },
+  "sourcePages": {
+   "zh": 11
+  }
+ },
+ {
+  "id": "bowel-cancer-76",
+  "en": "bowel cancer",
+  "definition": "Cancer that occurs on the inside wall of the bowel, usually affecting the colon or rectum (large bowel).",
+  "translations": {
+   "zh": "肠癌"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "bowel-obstruction-77",
+  "en": "bowel obstruction",
+  "definition": "When there is a blockage in the bowel.",
+  "translations": {
+   "zh": "肠梗阻"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "bowel-preparation-78",
+  "en": "bowel preparation",
+  "definition": "Cleansing of the intestines from faecal matter and secretions before a diagnostic procedure or treatment can be initiated for certain colorectal diseases.",
+  "translations": {
+   "zh": "肠道准备"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "brachytherapy-79",
+  "en": "brachytherapy",
+  "definition": "A form of internal radiation therapy where a small radioactive source is delivered directly to the tumour.",
+  "translations": {
+   "zh": "近距离放射治疗；短程疗法"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "brain-metastases-80",
+  "en": "brain metastases",
+  "definition": "Cancer cells that have spread to the brain from primary tumours in other organs in the body.",
+  "translations": {
+   "zh": "脑转移"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "brain-tumour-81",
+  "en": "brain tumour",
+  "definition": "A type of tumour that develops in the tissues of the brain.",
+  "translations": {
+   "zh": "脑肿瘤"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "brca1-and-brca2-gene-82",
+  "en": "BRCA1 and BRCA2 gene",
+  "definition": "ovarian and certain other cancers",
+  "translations": {
+   "zh": "BRCA1和BRCA2基因"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "breakthrough-pain-83",
+  "en": "breakthrough pain",
+  "definition": "A sudden flare of pain that \"breaks through\" the long-acting medication prescribed to treat moderate to severe persistent pain.",
+  "translations": {
+   "zh": "突发性疼痛"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "breast-84",
+  "en": "breast",
+  "definition": "Glandular organs on the chest, made up of lobules (milk-producing glands) and ducts (tubes that carry milk to the nipple).",
+  "translations": {
+   "zh": "乳房"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "breast-cancer-85",
+  "en": "breast cancer",
+  "definition": "Cancer that occurs in the breast.",
+  "translations": {
+   "zh": "乳癌"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "breast-care-nurse-86",
+  "en": "breast care nurse",
+  "definition": "Health professionals who are specially trained to manage the care of breast cancer patients throughout the course of their treatment.",
+  "translations": {
+   "zh": "乳癌护理护士"
+  },
+  "sourcePages": {
+   "zh": 12
+  }
+ },
+ {
+  "id": "breast-conserving-surgery-87",
+  "en": "breast conserving surgery",
+  "definition": "The removal of cancer within the breast with a border of normal tissue around it. Also known as wide local excision, lumpectomy or partial mastectomy.",
+  "translations": {
+   "zh": "保乳手术"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "breast-density-88",
+  "en": "breast density",
+  "definition": "A measure used to describe the amounts of fat and tissue seen in the breast as seen on a mammogram.",
+  "translations": {
+   "zh": "乳腺密度"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "breast-implant-89",
+  "en": "breast implant",
+  "definition": "A silicone gel-filled or saline-filled sac placed under the chest muscle to restore breast shape. Used as part of breast reconstruction after a mastectomy.",
+  "translations": {
+   "zh": "乳房植体"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "breast-prostheses-90",
+  "en": "breast prostheses",
+  "definition": "Temporary or permanent moulds worn in the bra to replicate the shape of a breast.",
+  "translations": {
+   "zh": "乳房假体"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "breast-reconstruction-91",
+  "en": "breast reconstruction",
+  "definition": "Surgery to create a breast shape after all or part of the breast has been removed.",
+  "translations": {
+   "zh": "乳房重建"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "breast-surgeon-92",
+  "en": "breast surgeon",
+  "definition": "A doctor specialising in surgery of the breast.",
+  "translations": {
+   "zh": "乳房外科医生"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "bronchoscopy-93",
+  "en": "bronchoscopy",
+  "definition": "A procedure that uses a bronchoscope (a thin, tube-like instrument) to examine the inside of the trachea, bronchi and lungs.",
+  "translations": {
+   "zh": "支气管镜检查"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "bronchus-bronchi-94",
+  "en": "bronchus/bronchi",
+  "definition": "Part of the respiratory tract. The trachea divides into a right and left main bronchus. Each major bronchus then subdivides into smaller airway passages referred to as bronchi.",
+  "translations": {
+   "zh": "支气管"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "burkitt-lymphoma-95",
+  "en": "Burkitt lymphoma",
+  "definition": "A form of non-Hodgkin's lymphoma in which cancer starts in immune cells called B-cells.",
+  "translations": {
+   "zh": "伯基特（Burkitt）淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 13
+  }
+ },
+ {
+  "id": "cachexia-96",
+  "en": "cachexia",
+  "definition": "Classified as progressive weight loss, anorexia, and persistent erosion of host body cell mass in response to a malignant growth.",
+  "translations": {
+   "zh": "恶病质"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "calcifications-97",
+  "en": "calcifications",
+  "definition": "Deposits of calcium in the breast that appear as bright white spots on a mammogram. Most calcifications are not cancer. However tight clusters (microcalcifications) can be a sign of breast cancer.",
+  "translations": {
+   "zh": "钙化"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-98",
+  "en": "cancer",
+  "definition": "A term for diseases in which abnormal cells divide without control and can invade nearby tissues.",
+  "translations": {
+   "zh": "癌症"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-antigen-125-ca-125-99",
+  "en": "cancer antigen 125 (CA-125)",
+  "definition": "A protein found on the surface of many ovarian cancer cells. CA-125 is used as a tumour marker, which means the test can help show if some types of cancer are present.",
+  "translations": {
+   "zh": "癌抗原125（CA-125）"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-incidence-rate-100",
+  "en": "cancer incidence rate",
+  "definition": "The number of new cancers of a specific site/type occurring in a specified population during a year. Usually expressed as the number of cancers per 100,000 population at risk.",
+  "translations": {
+   "zh": "癌症发病率"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-journey-101",
+  "en": "cancer journey",
+  "definition": "",
+  "translations": {
+   "zh": "患癌历程"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-mortality-102",
+  "en": "cancer mortality",
+  "definition": "The number of deaths, with cancer as the underlying cause of death, occurring in a specified population during a year. Usually expressed as the number of deaths due to cancer per 100,000 population.",
+  "translations": {
+   "zh": "癌症死亡率"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-of-unknown-primary-origin-103",
+  "en": "cancer of unknown primary origin",
+  "definition": "A rare disease in which cancer cells are found in the body but the place the cancer began is not known.",
+  "translations": {
+   "zh": "原发灶不明癌症"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-risk-104",
+  "en": "cancer risk",
+  "definition": "The chance that a person will develop cancer, or the chance that a cancer will come back or recur.",
+  "translations": {
+   "zh": "患癌风险"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-screening-105",
+  "en": "cancer screening",
+  "definition": "Looking for cancer before a person has any symptoms. May include pathology tests, imaging, genetic testing or physical examinations",
+  "translations": {
+   "zh": "癌症筛检"
+  },
+  "sourcePages": {
+   "zh": 14
+  }
+ },
+ {
+  "id": "cancer-spread-106",
+  "en": "cancer spread",
+  "definition": "The spread of cancer to a new part of the body is called metastasis.",
+  "translations": {
+   "zh": "癌症扩散"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "cancer-survivor-107",
+  "en": "cancer survivor",
+  "definition": "Any person diagnosed with cancer, from the time of initial diagnosis until his or her death.",
+  "translations": {
+   "zh": "癌症幸存者"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "cancer-treatment-108",
+  "en": "cancer treatment",
+  "definition": "How cancer is treated. This may include watchful waiting, chemotherapy, radiotherapy, surgery, immunotherapy or other cancer treatments.",
+  "translations": {
+   "zh": "癌症治疗方法"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "cancer-treatment-efficacy-109",
+  "en": "cancer treatment efficacy",
+  "definition": "The ability of a cancer treatment to produce the desired or intended result.",
+  "translations": {
+   "zh": "癌症治疗功效"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "cancerous-110",
+  "en": "cancerous",
+  "definition": "Affected by or showing abnormalities characteristic of cancer.",
+  "translations": {
+   "zh": "癌变的"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "cannula-111",
+  "en": "cannula",
+  "definition": "A plastic tube inserted into the body so that fluids can be introduced or removed.",
+  "translations": {
+   "zh": "插管"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "carcinogen-112",
+  "en": "carcinogen",
+  "definition": "A substance capable of causing cancer in living tissue.",
+  "translations": {
+   "zh": "致癌物质"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "carcinoid-neuroendocrine-tumour-113",
+  "en": "carcinoid (neuroendocrine) tumour",
+  "definition": "A rare tumour that begins in cells in the neuroendocrine system. Usually in the appendix and small bowel, but sometimes in the pancreas, lungs, stomach, ovaries, kidneys or testicles.",
+  "translations": {
+   "zh": "类癌（神经内分泌）肿瘤"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "carcinoma-114",
+  "en": "carcinoma",
+  "definition": "A type of cancer that starts in cells that make up the skin or the tissue lining organs, such as the liver or kidneys.",
+  "translations": {
+   "zh": "癌"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "carcinoma-in-situ-115",
+  "en": "carcinoma in situ",
+  "definition": "An early stage cancer that is still confined to the layer of tissue from which it started, and has not spread to surrounding tissue or other parts of the body.",
+  "translations": {
+   "zh": "原位癌"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "care-coordination-116",
+  "en": "care coordination",
+  "definition": "The deliberate organisation of patient care activities between two or more participants involved in a patient's care to facilitate the appropriate delivery of health care services.",
+  "translations": {
+   "zh": "护理协调"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "catheter-117",
+  "en": "catheter",
+  "definition": "A tube that is inserted into the bladder to allow urine to drain freely.",
+  "translations": {
+   "zh": "导尿管"
+  },
+  "sourcePages": {
+   "zh": 15
+  }
+ },
+ {
+  "id": "central-venous-access-device-cvad-central-line-118",
+  "en": "central venous access device (CVAD)/central line",
+  "definition": "Small, flexible tubes placed in large veins for people who require frequent access to the bloodstream. Often referred to as venous access ports or catheters.",
+  "translations": {
+   "zh": "中央静脉接入装置（CVAD）/中心导管"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "cervical-cancer-119",
+  "en": "cervical cancer",
+  "definition": "A type of cancer that occurs in the cells of the cervix, the lower part of the uterus that connects to the vagina.",
+  "translations": {
+   "zh": "宫颈癌"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "cervical-intraepithelial-neoplasia-cin-120",
+  "en": "cervical intraepithelial neoplasia (CIN)",
+  "definition": "The growth of abnormal precancerous cells on the surface of the cervix. Grades from one to three (least to most) may be used to describe the degree of involvement.",
+  "translations": {
+   "zh": "宫颈上皮内瘤样病变（CIN）"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "checkpoint-immunotherapy-121",
+  "en": "checkpoint immunotherapy",
+  "definition": "Drugs that prevent cancer cells from turning off T cells.",
+  "translations": {
+   "zh": "免疫检查点疗法"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chemoprevention-122",
+  "en": "chemoprevention",
+  "definition": "The use of natural, synthetic, or biologic agents to reduce the risk or delay the development or recurrence of cancer.",
+  "translations": {
+   "zh": "化学预防"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chemotherapy-123",
+  "en": "chemotherapy",
+  "definition": "The use of anti-cancer drugs to destroy cancer cells.",
+  "translations": {
+   "zh": "化学疗法、化疗"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "childhood-cancers-124",
+  "en": "childhood cancers",
+  "definition": "Cancers that occur between birth and 15 years of age.",
+  "translations": {
+   "zh": "儿童期癌症"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chinese-herbal-medicine-125",
+  "en": "Chinese herbal medicine",
+  "definition": "The use of herbs originating from Asia to help strengthen vitality, overcome illness and improve patient outcomes.",
+  "translations": {
+   "zh": "中草药"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "cholangiocarcinoma-126",
+  "en": "cholangiocarcinoma",
+  "definition": "A rare type of cancer that forms in the bile ducts.",
+  "translations": {
+   "zh": "胆管癌"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chronic-lymphocytic-leukaemia-cll-127",
+  "en": "chronic lymphocytic leukaemia (CLL)",
+  "definition": "A slow-growing type of blood cancer that affects developing B-cells. Also known as chronic lymphatic leukaemia.",
+  "translations": {
+   "zh": "慢性淋巴细胞白血病"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chronic-myeloid-leukaemia-cml-128",
+  "en": "chronic myeloid leukaemia (CML)",
+  "definition": "A type of cancer that affects the blood and bone marrow. Occurs when the bone marrow produces too many granulocytes, a type of white blood cell. Also known as chronic myelogenous leukaemia.",
+  "translations": {
+   "zh": "慢性骨髓性白血病、慢性粒细胞性白血病"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chronic-myeloproferative-neoplasms-129",
+  "en": "chronic myeloproferative neoplasms",
+  "definition": "Diseases in which the bone marrow makes too many red blood cells, platelets, or certain white blood cells.",
+  "translations": {
+   "zh": "慢性骨髓增殖性肿瘤"
+  },
+  "sourcePages": {
+   "zh": 16
+  }
+ },
+ {
+  "id": "chronic-pain-130",
+  "en": "chronic pain",
+  "definition": "Any pain lasting more than 12 weeks.",
+  "translations": {
+   "zh": "慢性疼痛"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "clear-cell-carcinoma-131",
+  "en": "clear cell carcinoma",
+  "definition": "A rare type of tumour, usually of the female genital tract, in which the insides of the cells look clear when viewed under a microscope. Also called clear cell adenocarcinoma and mesonephroma.",
+  "translations": {
+   "zh": "透明细胞癌"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "clear-margin-132",
+  "en": "clear margin",
+  "definition": "Where cancer cells are not seen at the outer edge of the tissue that has been surgically removed.",
+  "translations": {
+   "zh": "边界清晰"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "clinical-breast-examination-133",
+  "en": "clinical breast examination",
+  "definition": "A physical examination conducted by a health professional to check the look and feel of the breasts and underarm for any changes or abnormalities, such as lumps.",
+  "translations": {
+   "zh": "临床乳腺检查"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "clinical-guidelines-134",
+  "en": "clinical guidelines",
+  "definition": "A graded set of recommendations to assist clinical decision-making or service planning based on best available research.",
+  "translations": {
+   "zh": "临床指南"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "clinical-trial-135",
+  "en": "clinical trial",
+  "definition": "Any research study that prospectively assigns human participants or groups of humans to one or more health- related interventions to evaluate the effects on health outcomes.",
+  "translations": {
+   "zh": "临床试验"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "cognitive-behaviour-therapy-cbt-136",
+  "en": "cognitive behaviour therapy (CBT)",
+  "definition": "A common type of counselling that helps people identify unhelpful thoughts and behaviours and change how they respond to negative situations or emotions.",
+  "translations": {
+   "zh": "认知行为疗法（CBT）"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "cognitive-impairment-137",
+  "en": "cognitive impairment",
+  "definition": "Where a person may have trouble with memory or paying attention, communication and/or difficulty recognising people, places or things. They might also find new places or situations overwhelming.",
+  "translations": {
+   "zh": "认知障碍"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "cold-cap-138",
+  "en": "cold cap",
+  "definition": "A cap that is connected to a cooling system and worn on the head to help prevent hair loss.",
+  "translations": {
+   "zh": "头皮冷却帽、冷帽"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "colonoscopy-139",
+  "en": "colonoscopy",
+  "definition": "Examination of the large bowel with a camera on a flexible tube (endoscope), which is passed through the anus.",
+  "translations": {
+   "zh": "结肠镜检查"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "colorectal-cancer-140",
+  "en": "colorectal cancer",
+  "definition": "Cancer that occurs in the colon (the lower part of the intestine) or the rectum.",
+  "translations": {
+   "zh": "结肠直肠癌"
+  },
+  "sourcePages": {
+   "zh": 17
+  }
+ },
+ {
+  "id": "colostomy-stoma-bag-141",
+  "en": "colostomy/stoma bag",
+  "definition": "An operation where the colon is attached to an opening on the stomach. A bag is attached to the opening to collect faecal matter.",
+  "translations": {
+   "zh": "结肠造口术/造口袋"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "community-nurse-142",
+  "en": "community nurse",
+  "definition": "A nurse who provides primary health care to people in their homes and communities and may coordinate palliative care. Community nurses usually work for local health services.",
+  "translations": {
+   "zh": "社区护士"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "complementary-therapies-143",
+  "en": "complementary therapies",
+  "definition": "Therapies used together with standard medical treatment. Examples include counselling, relaxation therapy, massage, acupuncture, yoga and meditation, aromatherapy, and art and music therapy.",
+  "translations": {
+   "zh": "补充疗法"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "complete-blood-count-cbc-144",
+  "en": "complete blood count (CBC)",
+  "definition": "A test to check the number of red blood cells, white blood cells and platelets in a sample of blood.",
+  "translations": {
+   "zh": "病情、病况"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "condition-145",
+  "en": "condition",
+  "definition": "An illness or injury.",
+  "translations": {
+   "zh": "全血细胞计数（CBC)、血象、血细胞分析"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "constipation-146",
+  "en": "constipation",
+  "definition": "A condition in which stool/faeces becomes hard, dry, and difficult to pass, and bowel movements don't happen very often.",
+  "translations": {
+   "zh": "便秘"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "contralateral-147",
+  "en": "contralateral",
+  "definition": "The other or opposite side. For example, the other breast.",
+  "translations": {
+   "zh": "对侧的"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "contrast-148",
+  "en": "contrast",
+  "definition": "A substance injected into a vein or taken orally before a scan (such as a CT or MRI scan), which helps make pictures clearer. Also called a contrast medium, agent or dye.",
+  "translations": {
+   "zh": "造影剂；对比剂"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "control-group-149",
+  "en": "control group",
+  "definition": "Used in research to refer to a group of patients that is compared with another group receiving experimental treatment.",
+  "translations": {
+   "zh": "实验对照组"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "cording-150",
+  "en": "cording",
+  "definition": "Tight cords of tissues stretching down inside of the arm which can occur after surgery to remove the lymph nodes under the arm.",
+  "translations": {
+   "zh": "绳索组织,、腋网症候群"
+  },
+  "sourcePages": {
+   "zh": 18
+  }
+ },
+ {
+  "id": "core-needle-biopsy-151",
+  "en": "core needle biopsy",
+  "definition": "A biopsy using a hollow needle to take a sample(s) for analysis under a microscope.",
+  "translations": {
+   "zh": "粗针穿刺切片"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "corticosteroids-152",
+  "en": "corticosteroids",
+  "definition": "A class of drugs that are mostly used to reduce inflammation, and have been found to be effective in treating myeloma.",
+  "translations": {
+   "zh": "皮质类固醇"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "counselling-153",
+  "en": "counselling",
+  "definition": "Helping someone discuss and resolve issues by listening to them.",
+  "translations": {
+   "zh": "辅导"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "cryopreservation-154",
+  "en": "cryopreservation",
+  "definition": "A process that freezes cells, tissue, semen or other substances.",
+  "translations": {
+   "zh": "冷冻保存、低温贮藏"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "cryosurgery-cryotherapy-155",
+  "en": "cryosurgery/cryotherapy",
+  "definition": "The use of extreme cold to freeze and destroy unwanted tissue.",
+  "translations": {
+   "zh": "冷冻手术/冷冻疗法"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "ct-scan-156",
+  "en": "CT scan",
+  "definition": "The technique for constructing pictures from cross-sections of the body, by x-raying the part of the body to be examined from many different angles.",
+  "translations": {
+   "zh": "计算机断层扫描"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "culturally-and-linguistically-diverse-cald-157",
+  "en": "culturally and linguistically diverse (CALD)",
+  "definition": "Generally defined as people born overseas, in countries other than those classified as main English speaking countries.",
+  "translations": {
+   "zh": "文化和语言多样性"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "curative-cancer-treatment-158",
+  "en": "curative cancer treatment",
+  "definition": "Treatment given to damage or kill cancer cells.",
+  "translations": {
+   "zh": "治愈性癌症治疗"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "cutaneous-t-cell-lymphoma-159",
+  "en": "cutaneous t-cell lymphoma",
+  "definition": "A type of lymphoma that affects the skin.",
+  "translations": {
+   "zh": "皮肤T细胞淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "cyst-160",
+  "en": "cyst",
+  "definition": "An abnormal sac or closed cavity in the body filled with liquid or semi-solid material.",
+  "translations": {
+   "zh": "囊肿"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "cytotoxic-drug-161",
+  "en": "cytotoxic drug",
+  "definition": "A substance that is toxic to cells, so it can kill or slow the growth of cancer cells. For example, chemotherapy.",
+  "translations": {
+   "zh": "细胞毒性药物"
+  },
+  "sourcePages": {
+   "zh": 19
+  }
+ },
+ {
+  "id": "debulking-162",
+  "en": "debulking",
+  "definition": "Surgery to remove as much of a tumour as possible.",
+  "translations": {
+   "zh": "减瘤（减积）手术"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "deep-vein-thrombosis-dvt-163",
+  "en": "deep vein thrombosis (DVT)",
+  "definition": "A blood clot that forms in the deep veins of the leg or pelvis, often caused by immobility after surgery or long- distance travel.",
+  "translations": {
+   "zh": "深静脉血栓形成、深部静脉栓塞（DVT）"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "dermatologist-164",
+  "en": "dermatologist",
+  "definition": "A doctor who specialises in the prevention, diagnosis and treatment of skin conditions, including skin cancer.",
+  "translations": {
+   "zh": "皮肤科医师"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "desmoid-tumour-165",
+  "en": "desmoid tumour",
+  "definition": "A type of tumour that develops in fibrous tissue covering some organs and muscles.",
+  "translations": {
+   "zh": "硬纤维瘤"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "detection-166",
+  "en": "detection",
+  "definition": "The discovery of an abnormality or disease in the body.",
+  "translations": {
+   "zh": "发现"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "diagnosis-167",
+  "en": "diagnosis",
+  "definition": "The identification and naming of a person's disease.",
+  "translations": {
+   "zh": "诊断"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "dietitian-168",
+  "en": "dietitian",
+  "definition": "A health professional who supports and educates patients about nutrition and diet during treatment and recovery.",
+  "translations": {
+   "zh": "营养师"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "diffuse-large-b-cell-lymphoma-169",
+  "en": "diffuse large B-cell lymphoma",
+  "definition": "A fast-growing type of non-Hodgkin lymphoma that starts in the lymph nodes in the neck, groin or armpit.",
+  "translations": {
+   "zh": "弥漫性大B细胞淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "digital-rectal-examination-dre-170",
+  "en": "digital rectal examination (DRE)",
+  "definition": "A way to diagnose prostate abnormalities, where the doctor places a gloved finger into the rectum and feels the prostate through the rectum wall.",
+  "translations": {
+   "zh": "直肠指检（DRE）"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "dilation-and-curettage-d-c-171",
+  "en": "dilation and curettage (D&C)",
+  "definition": "A procedure where the cervix is dilated and the lining of the uterus (endometrium) is scraped out. D&C is sometimes used to treat precancerous changes of the cervix.",
+  "translations": {
+   "zh": "扩张术及刮除术(扩刮术——扩张宫颈和刮宫术)"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "direct-discrimination-172",
+  "en": "direct discrimination",
+  "definition": "When someone is treated less favourably because of a disability, such as cancer.",
+  "translations": {
+   "zh": "直接歧视"
+  },
+  "sourcePages": {
+   "zh": 20
+  }
+ },
+ {
+  "id": "disease-free-survival-173",
+  "en": "disease free survival",
+  "definition": "The length of time after primary treatment for a cancer ends, that the patient survives without any signs or symptoms of that cancer.",
+  "translations": {
+   "zh": "无病生存期"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "distant-cancer-174",
+  "en": "distant cancer",
+  "definition": "Refers to cancer that has spread from the original (primary) tumour to distant organs or distant lymph nodes. Also known as distant metastasis.",
+  "translations": {
+   "zh": "远端癌转移"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "dna-175",
+  "en": "DNA",
+  "definition": "Genetic material. Stands for deoxyribonucleic acid.",
+  "translations": {
+   "zh": "脱氧核糖核酸"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "double-blind-trial-176",
+  "en": "double blind trial",
+  "definition": "A trial in which neither the patient nor their research team know what treatment the patient is receiving, to reduce bias.",
+  "translations": {
+   "zh": "双盲试验"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "double-mastectomy-177",
+  "en": "double mastectomy",
+  "definition": "Removal of both breasts during breast cancer surgery.",
+  "translations": {
+   "zh": "双乳切除术"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "drug-resistance-178",
+  "en": "drug resistance",
+  "definition": "The cancer cells' ability to resist the effects of a drug.",
+  "translations": {
+   "zh": "耐药性"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "duct-179",
+  "en": "duct",
+  "definition": "A small tube in the body, usually one that carries the substances secreted from glands.",
+  "translations": {
+   "zh": "管；导管"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "ductal-carcinoma-in-situ-dcis-180",
+  "en": "ductal carcinoma in situ (DCIS)",
+  "definition": "A form of non-invasive breast cancer, confined to the ducts of the breast.",
+  "translations": {
+   "zh": "导管原位癌（DCIS）"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "dysphagia-181",
+  "en": "dysphagia",
+  "definition": "Difficulty swallowing.",
+  "translations": {
+   "zh": "吞咽困难"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "dysplasia-182",
+  "en": "dysplasia",
+  "definition": "A change in size, shape and arrangement of normal cells. Dysplastic cells are precancerous, not cancerous.",
+  "translations": {
+   "zh": "异型增生"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "dyspnoea-183",
+  "en": "dyspnoea",
+  "definition": "Difficulty breathing or breathlessness.",
+  "translations": {
+   "zh": "呼吸困难"
+  },
+  "sourcePages": {
+   "zh": 21
+  }
+ },
+ {
+  "id": "early-breast-cancer-184",
+  "en": "early breast cancer",
+  "definition": "Breast cancer that has not spread beyond the breast or lymph nodes under the arm (known as axillary lymph nodes). Also described as stage I and stage II breast cancer.",
+  "translations": {
+   "zh": "早期乳癌"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "early-detection-of-cancer-185",
+  "en": "early detection of cancer",
+  "definition": "Recognising possible warning signs of cancer and taking prompt action leads to early diagnosis.",
+  "translations": {
+   "zh": "癌症早期检测"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "early-menopause-186",
+  "en": "early menopause",
+  "definition": "Menopause (ending of the normal menstrual cycle) occurring in women under 45 years of age. Often a side effect of some common treatments for breast cancer.",
+  "translations": {
+   "zh": "过早停经"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "early-warning-signs-of-cancer-187",
+  "en": "early warning signs of cancer",
+  "definition": "Signs that indicate that there may be a malignant growth in the body. For example, a new or change in a mole, a lump in the breast or the presence of side effects of cancer, such as bloating or fatigue.",
+  "translations": {
+   "zh": "癌症早期征兆"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "echocardiogram-188",
+  "en": "echocardiogram",
+  "definition": "An ultrasound scan of the heart to check its function. Also called a cardiac echo or cardiac ultrasound.",
+  "translations": {
+   "zh": "超声波心动图"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "electrolyte-189",
+  "en": "electrolyte",
+  "definition": "A substance in the body that conducts electricity.",
+  "translations": {
+   "zh": "电解质"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "emphysema-190",
+  "en": "emphysema",
+  "definition": "A benign condition in which the alveoli of the lungs are enlarged and damaged reducing the lung's surface area and causing breathing difficulties.",
+  "translations": {
+   "zh": "肺气肿"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "endocrine-therapy-191",
+  "en": "endocrine therapy",
+  "definition": "See hormone therapy/treatment.",
+  "translations": {
+   "zh": "内分泌疗法"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "endocrinologist-192",
+  "en": "endocrinologist",
+  "definition": "A doctor who specialises in treating people with disorders of the endocrine system.",
+  "translations": {
+   "zh": "内分泌科医师"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "endometrial-cancer-193",
+  "en": "endometrial cancer",
+  "definition": "See uterine cancer.",
+  "translations": {
+   "zh": "子宫内膜癌"
+  },
+  "sourcePages": {
+   "zh": 22
+  }
+ },
+ {
+  "id": "endometrium-194",
+  "en": "endometrium",
+  "definition": "The glandular lining of the inside of the uterus that is stimulated by the hormones oestrogen and progesterone and shed each month.",
+  "translations": {
+   "zh": "子宫内膜"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "endoscope-195",
+  "en": "endoscope",
+  "definition": "A thin and flexible tube with a light and camera attached, used for examining the inside of the body.",
+  "translations": {
+   "zh": "内窥镜"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "endoscopy-196",
+  "en": "endoscopy",
+  "definition": "A type of internal examination or diagnostic test which uses an endoscope.",
+  "translations": {
+   "zh": "内窥镜检查"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "enema-197",
+  "en": "enema",
+  "definition": "The injection of a liquid into the rectum through a small tube to elicit a bowel motion.",
+  "translations": {
+   "zh": "灌肠法"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "energy-calories-kilojoules-198",
+  "en": "energy (calories/kilojoules)",
+  "definition": "Obtained from food and drink and provides fuel for daily activities. Counted in calories or kilojoules.",
+  "translations": {
+   "zh": "热量（卡路里/千焦耳）"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "enteral-feeding-tube-199",
+  "en": "enteral feeding tube",
+  "definition": "A fine flexible plastic tube used to insert food directly into the stomach if a person is unable to eat.",
+  "translations": {
+   "zh": "肠内饲管"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "enteral-nutrition-200",
+  "en": "enteral nutrition",
+  "definition": "Receiving all or part of daily nutrition requirements through a feeding tube.",
+  "translations": {
+   "zh": "肠内营养"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "enzymes-201",
+  "en": "enzymes",
+  "definition": "Essential proteins for the normal functioning and performance of the body.",
+  "translations": {
+   "zh": "酶"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "epidermis-202",
+  "en": "epidermis",
+  "definition": "The surface layer of the skin, which contains basal cells, squamous cells and melanocytes.",
+  "translations": {
+   "zh": "表皮"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "epidural-203",
+  "en": "epidural",
+  "definition": "An injection into the spinal column, outside the lining of the spinal cord. Used to remove pain from the lower part of the body.",
+  "translations": {
+   "zh": "硬脊膜外麻醉"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "epithelium-204",
+  "en": "epithelium",
+  "definition": "The cells that make up the internal and external surfaces of the body.",
+  "translations": {
+   "zh": "上皮细胞"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "erectile-dysfunction-205",
+  "en": "erectile dysfunction",
+  "definition": "Inability to obtain or maintain an erection firm enough for penetration. Also called impotence.",
+  "translations": {
+   "zh": "勃起功能障碍"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "ethics-206",
+  "en": "ethics",
+  "definition": "The study of moral values or principles, including responsible conduct and what is fair.",
+  "translations": {
+   "zh": "伦理学"
+  },
+  "sourcePages": {
+   "zh": 23
+  }
+ },
+ {
+  "id": "ewing-s-sarcoma-207",
+  "en": "Ewing's sarcoma",
+  "definition": "A cancer that most often occurs in and around the bones.",
+  "translations": {
+   "zh": "尤文氏肉瘤"
+  },
+  "sourcePages": {
+   "zh": 24
+  }
+ },
+ {
+  "id": "excision-208",
+  "en": "excision",
+  "definition": "A surgical procedure to remove diseased tissue. A surgeon may cut out cancerous tissue, as well as tissue surrounding it.",
+  "translations": {
+   "zh": "切除"
+  },
+  "sourcePages": {
+   "zh": 24
+  }
+ },
+ {
+  "id": "experimental-cancer-treatment-209",
+  "en": "experimental cancer treatment",
+  "definition": "Medical therapies supplementing or replacing conventional methods (surgery, chemotherapy, radiation, and immunotherapy).",
+  "translations": {
+   "zh": "实验性癌症疗法"
+  },
+  "sourcePages": {
+   "zh": 24
+  }
+ },
+ {
+  "id": "external-beam-radiotherapy-210",
+  "en": "external beam radiotherapy",
+  "definition": "The use of x-rays directed from a machine outside of the body.",
+  "translations": {
+   "zh": "体外放射治疗"
+  },
+  "sourcePages": {
+   "zh": 24
+  }
+ },
+ {
+  "id": "extragonadal-germ-cell-tumour-211",
+  "en": "extragonadal germ cell tumour",
+  "definition": "A type of tumour that forms from developing sperm or egg cells that travel from the gonads to other parts of the body.",
+  "translations": {
+   "zh": "性腺外生殖细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 24
+  }
+ },
+ {
+  "id": "eye-cancer-212",
+  "en": "eye cancer",
+  "definition": "A type of cancer that occurs in the eye. May affect the eye muscles (e.g. rhabdomyosarcoma) or the eye itself (called intraocular cancers).",
+  "translations": {
+   "zh": "眼癌"
+  },
+  "sourcePages": {
+   "zh": 24
+  }
+ },
+ {
+  "id": "faecal-occult-blood-test-213",
+  "en": "faecal occult blood test",
+  "definition": "A test that checks stools or bowel motions for microscopic traces of blood.",
+  "translations": {
+   "zh": "粪便隐血测试"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "faeces-stools-214",
+  "en": "faeces/stools",
+  "definition": "Waste matter (excrement) discharged from the bowel through the anus (bowel movement).",
+  "translations": {
+   "zh": "粪便/大便"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "fallopian-tube-cancer-215",
+  "en": "fallopian tube cancer",
+  "definition": "A type of cancer that occurs in the fallopian tubes, the tubes that carry the ova (eggs) from the ovary to the uterus.",
+  "translations": {
+   "zh": "输卵管癌"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "familial-216",
+  "en": "familial",
+  "definition": "Indicates that a condition that can be inherited from the generations of a family through one or more genes.",
+  "translations": {
+   "zh": "家族性的"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "familial-cancer-217",
+  "en": "familial cancer",
+  "definition": "A cancer that can be inherited from the generations of a family.",
+  "translations": {
+   "zh": "家族性癌症"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "fasting-218",
+  "en": "fasting",
+  "definition": "Abstaining from food and drinks.",
+  "translations": {
+   "zh": "禁食"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "febrile-neutropenia-219",
+  "en": "febrile neutropenia",
+  "definition": "The development of a fever, often with signs of infection, in a person with neutropenia (an abnormally low level of neutrophils in the blood). A common side-effect of chemotherapy",
+  "translations": {
+   "zh": "发热性嗜中性粒细胞减少症、嗜中性白血球低下并有发烧"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "fine-needle-aspiration-220",
+  "en": "fine needle aspiration",
+  "definition": "A biopsy that uses a thin hollow needle to remove a tissue sample. Often performed on the breast.",
+  "translations": {
+   "zh": "细针抽吸"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "fish-fluorescence-in-situ-hybridisation-221",
+  "en": "FISH (fluorescence in situ hybridisation)",
+  "definition": "A way of measuring HER2 levels in cancer cells. FISH positive (FISH+) means excessive amounts are present, classed as HER2+.",
+  "translations": {
+   "zh": "FISH（荧光原位杂交）"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "flat-urothelial-carcinoma-222",
+  "en": "flat urothelial carcinoma",
+  "definition": "A tumour that grows in the lining of the bladder.",
+  "translations": {
+   "zh": "扁平状尿路上皮癌"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "flatulence-223",
+  "en": "flatulence",
+  "definition": "Wind or gas.",
+  "translations": {
+   "zh": "肠胃气胀"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "follicle-224",
+  "en": "follicle",
+  "definition": "A cavity in the ovary that contains a maturing egg.",
+  "translations": {
+   "zh": "卵泡"
+  },
+  "sourcePages": {
+   "zh": 25
+  }
+ },
+ {
+  "id": "fraction-225",
+  "en": "fraction",
+  "definition": "The division of the total dose of radiotherapy into several smaller doses that are delivered over a period of days.",
+  "translations": {
+   "zh": "放疗分割"
+  },
+  "sourcePages": {
+   "zh": 26
+  }
+ },
+ {
+  "id": "frozen-section-226",
+  "en": "frozen section",
+  "definition": "A sample of fresh tissue which is frozen until it is hard enough to cut into sections.",
+  "translations": {
+   "zh": "冷冻切片"
+  },
+  "sourcePages": {
+   "zh": 26
+  }
+ },
+ {
+  "id": "full-blood-count-fbc-227",
+  "en": "full blood count (FBC)",
+  "definition": "A test that counts the number of red blood, white blood cells and platelets in the blood. Sometimes called a complete blood count.",
+  "translations": {
+   "zh": "全血计数、血象、血细胞分析"
+  },
+  "sourcePages": {
+   "zh": 26
+  }
+ },
+ {
+  "id": "functioning-tumour-228",
+  "en": "functioning tumour",
+  "definition": "A type of neuroendocrine tumour that secretes hormones.",
+  "translations": {
+   "zh": "功能性肿瘤"
+  },
+  "sourcePages": {
+   "zh": 26
+  }
+ },
+ {
+  "id": "gallbladder-cancer-229",
+  "en": "gallbladder cancer",
+  "definition": "A type of cancer that occurs in the gallbladder, a small pear shaped organ on the underside of the liver that secretes bile.",
+  "translations": {
+   "zh": "胆囊癌"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "gap-fee-230",
+  "en": "gap fee",
+  "definition": "",
+  "translations": {
+   "zh": "差额费用"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "gastric-cancer-231",
+  "en": "gastric cancer",
+  "definition": "See stomach cancer.",
+  "translations": {
+   "zh": "胃癌"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "gastrinoma-232",
+  "en": "gastrinoma",
+  "definition": "A pancreatic neuroendocrine tumour that secretes too much of the hormone gastrin.",
+  "translations": {
+   "zh": "胃泌素瘤"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "gastroenterologist-233",
+  "en": "gastroenterologist",
+  "definition": "A doctor who specialises in diseases of the digestive system.",
+  "translations": {
+   "zh": "胃肠病医师"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "gastrointestinal-stromal-tumours-234",
+  "en": "gastrointestinal stromal tumours",
+  "definition": "",
+  "translations": {
+   "zh": "胃肠道间质瘤、胃肠道基质瘤"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "general-anaesthetic-235",
+  "en": "general anaesthetic",
+  "definition": "Medication which causes a person lose consciousness and fall asleep prior to a procedure.",
+  "translations": {
+   "zh": "全身麻醉药"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "general-practitioner-gp-236",
+  "en": "general practitioner (GP)",
+  "definition": "A doctor who diagnoses, refers and treats the health problems of individuals and families in the community. Sometimes called family doctors.",
+  "translations": {
+   "zh": "全科医师（GP）"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "genetic-counsellor-237",
+  "en": "genetic counsellor",
+  "definition": "A health professional trained to help people understand and adapt to the implications of a genetic contribution to diseases, such as cancer.",
+  "translations": {
+   "zh": "遗传咨询师"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "genetic-risk-factors-238",
+  "en": "genetic risk factors",
+  "definition": "Genetic variants which contribute to the risk of developing common and complex diseases, such as cancer and diabetes.",
+  "translations": {
+   "zh": "遗传风险因素"
+  },
+  "sourcePages": {
+   "zh": 27
+  }
+ },
+ {
+  "id": "genetic-testing-239",
+  "en": "genetic testing",
+  "definition": "The study of a person's DNA in order to identify genetic differences or susceptibility to particular diseases or abnormalities.",
+  "translations": {
+   "zh": "基因检测"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "genome-240",
+  "en": "genome",
+  "definition": "The entire collection of genes found in an organism.",
+  "translations": {
+   "zh": "基因组"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "germ-cell-tumours-241",
+  "en": "germ cell tumours",
+  "definition": "Tumours that form from reproductive cells.",
+  "translations": {
+   "zh": "生殖细胞肿瘤"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "germ-cells-242",
+  "en": "germ cells",
+  "definition": "Cells that produce eggs in females and sperm in males.",
+  "translations": {
+   "zh": "生殖细胞"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "gland-adj-glandular-243",
+  "en": "gland (adj. glandular)",
+  "definition": "An organ or group of cells that makes certain fluids (hormones, saliva, sweat) that are used in the body or excreted.",
+  "translations": {
+   "zh": "腺体（形容词：腺体的）"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "gleason-score-244",
+  "en": "Gleason score",
+  "definition": "A system for grading prostate cancer tumours according to size and severity, depending on how the tumour cells look under a microscope.",
+  "translations": {
+   "zh": "格里森评分"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "glioblastoma-245",
+  "en": "glioblastoma",
+  "definition": "A type of malignant brain tumour.",
+  "translations": {
+   "zh": "恶性胶质瘤、胶质母细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "glioma-246",
+  "en": "glioma",
+  "definition": "Any tumour that starts in the connective tissue (the glia) of the nervous system.",
+  "translations": {
+   "zh": "神经胶质瘤"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "glucagonoma-247",
+  "en": "glucagonoma",
+  "definition": "A pancreatic neuroendocrine tumour that secretes too much of the hormone glucagon.",
+  "translations": {
+   "zh": "胰高血糖素瘤"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "goal-248",
+  "en": "goal",
+  "definition": "An overarching statement about the desired outcome.",
+  "translations": {
+   "zh": "目标"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "gonadotropin-releasing-hormones-gnrh-249",
+  "en": "gonadotropin-releasing hormones (GnRH)",
+  "definition": "Long-acting hormones used to slow and stop the function of the hormones.",
+  "translations": {
+   "zh": "促性腺素释素、促性腺激素释放激素（GnRH）"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "grade-250",
+  "en": "grade",
+  "definition": "A score describing how quickly a tumour is likely to grow.",
+  "translations": {
+   "zh": "（肿瘤的）分级"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "graft-251",
+  "en": "graft",
+  "definition": "Healthy tissue taken from one part of the body to replace diseased or injured tissue at another part of the body. May also include the use of donor tissue.",
+  "translations": {
+   "zh": "移植物"
+  },
+  "sourcePages": {
+   "zh": 28
+  }
+ },
+ {
+  "id": "granulocyte-colony-stimulating-factor-g-csf-252",
+  "en": "granulocyte-colony stimulating factor (G-CSF)",
+  "definition": "A protein that helps increase the bone marrow production of infection-fighting white blood cells called neutrophils.",
+  "translations": {
+   "zh": "粒细胞集落刺激因子（G-CSF）"
+  },
+  "sourcePages": {
+   "zh": 29
+  }
+ },
+ {
+  "id": "gynaecologist-253",
+  "en": "gynaecologist",
+  "definition": "Refers to any cancers of the female reproductive tract. This includes cancers of the uterus, ovary, cervix, vagina, vulva, placenta and fallopian tubes.",
+  "translations": {
+   "zh": "妇科医师"
+  },
+  "sourcePages": {
+   "zh": 29
+  }
+ },
+ {
+  "id": "gynaecological-cancer-254",
+  "en": "gynaecological cancer",
+  "definition": "A doctor who specialises in diseases of the female reproductive system.",
+  "translations": {
+   "zh": "妇科癌症"
+  },
+  "sourcePages": {
+   "zh": 29
+  }
+ },
+ {
+  "id": "haematologist-255",
+  "en": "haematologist",
+  "definition": "A doctor who specialises in diseases of the blood, bone marrow and lymphatic system.",
+  "translations": {
+   "zh": "血液学医师"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "haematology-256",
+  "en": "haematology",
+  "definition": "The branch of medicine that studies the blood.",
+  "translations": {
+   "zh": "血液学"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "haematuria-257",
+  "en": "haematuria",
+  "definition": "Blood in the urine.",
+  "translations": {
+   "zh": "血尿"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "hairy-cell-leukaemia-258",
+  "en": "hairy cell leukaemia",
+  "definition": "A rare, slow-growing type of blood cancer where the bone marrow makes too many B cells (lymphocytes), a type of white blood cell that fights infection. These excess B cells are abnormal and look \"hairy\" under a microscope.",
+  "translations": {
+   "zh": "毛细胞白血病"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "harassment-259",
+  "en": "harassment",
+  "definition": "Any form of behaviour that offends, humiliates, intimidates or creates a hostile environment.",
+  "translations": {
+   "zh": "骚扰"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "head-and-neck-cancer-260",
+  "en": "head and neck cancer",
+  "definition": "Refers to any cancers of the mouth, sinuses, nose or throat.",
+  "translations": {
+   "zh": "头颈癌"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "health-care-team-261",
+  "en": "health care team",
+  "definition": "A group of health professionals who are responsible for managing a patient (doctors, nurses, dietitians, physiotherapists, social workers, etc.).",
+  "translations": {
+   "zh": "医护团队"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "health-system-262",
+  "en": "health system",
+  "definition": "All activities that have the primary purpose to promote, restore and/or maintain health.",
+  "translations": {
+   "zh": "医疗体系"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "heartburn-indigestion-263",
+  "en": "heartburn (indigestion)",
+  "definition": "The sensation of tightness or burning in the chest, caused by reflux (stomach acid backing up into the oesophagus and throat).",
+  "translations": {
+   "zh": "胃灼热（消化不良）"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "her2-human-epidermal-growth-factor-receptor-2-264",
+  "en": "HER2 (human epidermal growth factor receptor 2)",
+  "definition": "A protein involved in the growth of cells. Around 15-20% of breast cancer cells have higher than normal levels of HER2 (HER2+) which stimulates them to grow.",
+  "translations": {
+   "zh": "HER 2（人类表皮生长因子受体2）"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "herbal-medicine-265",
+  "en": "herbal medicine",
+  "definition": "The use of herbs taken by mouth or applied to the body.",
+  "translations": {
+   "zh": "草药医学"
+  },
+  "sourcePages": {
+   "zh": 30
+  }
+ },
+ {
+  "id": "hereditary-266",
+  "en": "hereditary",
+  "definition": "Where something is passed on from one person to another (parent to offspring) through genes.",
+  "translations": {
+   "zh": "遗传性的"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hereditary-cancer-267",
+  "en": "hereditary cancer",
+  "definition": "Where the tendency to develop cancers is inherited.",
+  "translations": {
+   "zh": "遗传性癌症"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hereditary-non-polyposis-colorectal-cancer-hnpcc-268",
+  "en": "hereditary non-polyposis colorectal cancer (HNPCC)",
+  "definition": "A condition in some families where the tendency to develop bowel (and some other) cancers is inherited. About 1% of all bowel cancer is due to HNPCC.",
+  "translations": {
+   "zh": "遗传性非息肉性结肠直肠癌（HNPCC）"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hernia-269",
+  "en": "hernia",
+  "definition": "The protrusion of an organ or tissue out of the body cavity in which it normally lies, due to a weakness of the muscle coverings.",
+  "translations": {
+   "zh": "疝"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hickman-line-270",
+  "en": "Hickman line",
+  "definition": "A type of central venous access device inserted into a vein in the chest.",
+  "translations": {
+   "zh": "希克曼导管"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "high-grade-abnormality-271",
+  "en": "high-grade abnormality",
+  "definition": "Changes to the cells of the cervix that are more serious than low-grade abnormalities. They may lead to cancer in some women.",
+  "translations": {
+   "zh": "高度异常"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "histology-272",
+  "en": "histology",
+  "definition": "The study of cells and tissues using a microscope.",
+  "translations": {
+   "zh": "组织学"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "histopathology-273",
+  "en": "histopathology",
+  "definition": "The study of changes in tissues caused by disease.",
+  "translations": {
+   "zh": "组织病理学"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hiv-human-immunodeficiency-virus-274",
+  "en": "HIV (human immunodeficiency virus)",
+  "definition": "A virus that weakens the immune system and causes AIDS (acquired immune deficiency syndrome).",
+  "translations": {
+   "zh": "艾滋病毒HIV（人类免疫缺陷病毒）"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hodgkin-lymphoma-275",
+  "en": "Hodgkin lymphoma",
+  "definition": "A type of lymphoma.",
+  "translations": {
+   "zh": "霍奇金淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "homoeopathy-276",
+  "en": "homoeopathy",
+  "definition": "",
+  "translations": {
+   "zh": "顺势疗法"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hormone-adj-hormonal-277",
+  "en": "hormone (adj. hormonal)",
+  "definition": "A substance made by a gland, which helps to regulate and coordinate growth, metabolism and reproduction. Carried in the bloodstream.",
+  "translations": {
+   "zh": "激素（形容词：激素的）"
+  },
+  "sourcePages": {
+   "zh": 31
+  }
+ },
+ {
+  "id": "hormone-receptors-278",
+  "en": "hormone receptors",
+  "definition": "A cell protein that binds a specific hormone. For example, some breast cancer cells have hormone receptors,",
+  "translations": {
+   "zh": "激素受体"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "hormone-replacement-therapy-hrt-279",
+  "en": "hormone replacement therapy (HRT)",
+  "definition": "Drug therapy that supplies the body with hormones that it is no longer able to produce. Used to relieve menopausal symptoms.",
+  "translations": {
+   "zh": "激素替代疗法（HRT）"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "hormone-therapy-treatment-280",
+  "en": "hormone therapy/treatment",
+  "definition": "Drugs used to treat women with hormone receptor-positive breast cancer. Hormone therapies work to either reduce the amount of hormone in the body, or to stop it from working. Common hormone therapies used in Australia include tamoxifen, and the aromatase inhibitors anastrozole (Arimidex), letrozole (Femara) and exemestane (Aromasin).",
+  "translations": {
+   "zh": "激素疗法/治疗"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "human-papilloma-virus-hpv-281",
+  "en": "human papilloma virus (HPV)",
+  "definition": "A genital infection spread through genital skin contact during sexual activity. The virus passes through tiny breaks in the skin.",
+  "translations": {
+   "zh": "人乳头状瘤病毒"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "hypercalcaemia-282",
+  "en": "hypercalcaemia",
+  "definition": "Higher than normal levels of calcium in the blood, usually caused by metastatic cancer in the bones.",
+  "translations": {
+   "zh": "高血钙、高钙血症"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "hypopharyngeal-cancer-283",
+  "en": "hypopharyngeal cancer",
+  "definition": "A type of cancer that occurs in the hypopharynx, the area where the larynx and oesophagus meet.",
+  "translations": {
+   "zh": "下咽癌"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "hysterectomy-284",
+  "en": "hysterectomy",
+  "definition": "Surgical removal of the uterus.",
+  "translations": {
+   "zh": "子宫切除术"
+  },
+  "sourcePages": {
+   "zh": 32
+  }
+ },
+ {
+  "id": "ileal-conduit-285",
+  "en": "ileal conduit",
+  "definition": "A small passageway created from a piece of bowel and connected between the ureters and a stoma on the abdomen wall. It takes the place of the bladder, allowing urine to flow through it and the stoma into a bag on the outside of the body.",
+  "translations": {
+   "zh": "回肠膀胱术"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "ileostomy-286",
+  "en": "ileostomy",
+  "definition": "An operation which brings part of the small bowel to an opening in the abdomen. Similar to a colostomy.",
+  "translations": {
+   "zh": "回肠造口术"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "immune-cells-287",
+  "en": "immune cells",
+  "definition": "White blood cells (leucocytes).",
+  "translations": {
+   "zh": "免疫细胞"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "immunocompromised-288",
+  "en": "immunocompromised",
+  "definition": "Weakening of the immune system, caused by some diseases and treatments, such as chemotherapy.",
+  "translations": {
+   "zh": "免疫力低下、免疫不全"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "immunoglobulin-ig-289",
+  "en": "immunoglobulin (Ig)",
+  "definition": "A protein that is produced by plasma cells and fights infections. There are five main types: IgA, IgD, IgE, IgG and IgM. Also known as antibodies.",
+  "translations": {
+   "zh": "免疫球蛋白（lg)"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "immunosuppressant-290",
+  "en": "immunosuppressant",
+  "definition": "A medication that reduces the actions of the immune system.",
+  "translations": {
+   "zh": "免疫抑制剂"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "immunosuppression-291",
+  "en": "immunosuppression",
+  "definition": "Medically-induced or disease-related suppression of the immune system.",
+  "translations": {
+   "zh": "免疫抑制"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "immunotherapy-292",
+  "en": "immunotherapy",
+  "definition": "Targeted therapies that use the immune system to fight cancer.",
+  "translations": {
+   "zh": "免疫疗法"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "incisional-biopsy-293",
+  "en": "incisional biopsy",
+  "definition": "A procedure where a small area of tissue is taken to identify the composition or make-up of a lesion or abnormality.",
+  "translations": {
+   "zh": "切开性切片，也称作切口活组织检查"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "inconclusive-294",
+  "en": "inconclusive",
+  "definition": "Leading to no conclusion or definite result.",
+  "translations": {
+   "zh": "尚无定论"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "indirect-discrimination-295",
+  "en": "indirect discrimination",
+  "definition": "When a person with a disability, such as cancer, is disadvantaged by a policy, rule or practice that seems fair.",
+  "translations": {
+   "zh": "间接歧视"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "indolent-296",
+  "en": "indolent",
+  "definition": "Slow growing.",
+  "translations": {
+   "zh": "惰性的"
+  },
+  "sourcePages": {
+   "zh": 33
+  }
+ },
+ {
+  "id": "inflammatory-breast-cancer-297",
+  "en": "inflammatory breast cancer",
+  "definition": "A rare and aggressive form of invasive breast cancer that affects the blood vessels in the skin of the breast.",
+  "translations": {
+   "zh": "炎性乳癌"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "inflammatory-carcinoma-298",
+  "en": "inflammatory carcinoma",
+  "definition": "A type of breast cancer that usually presents with a noticeable warmth and reddening of the breast skin. There may also be puckering of the skin and swelling of the breast.",
+  "translations": {
+   "zh": "炎性癌"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "infusaport-299",
+  "en": "infusaport",
+  "definition": "See intravenous access device.",
+  "translations": {
+   "zh": "静脉输入导管"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "infusion-300",
+  "en": "infusion",
+  "definition": "A slow injection of a substance into a vein or other tissue. Often known as a 'drip'.",
+  "translations": {
+   "zh": "灌注"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "inguinal-lymph-node-dissection-301",
+  "en": "inguinal lymph node dissection",
+  "definition": "Surgical removal of lymph nodes from the groin area.",
+  "translations": {
+   "zh": "腹股沟淋巴结清扫术"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "inoperable-302",
+  "en": "inoperable",
+  "definition": "Unable to be removed by surgery. Also called irresectable or unresectable.",
+  "translations": {
+   "zh": "不可手术切除的"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "inpatient-303",
+  "en": "inpatient",
+  "definition": "A person who stays in hospital while having treatment.",
+  "translations": {
+   "zh": "住院病人"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "insomnia-304",
+  "en": "insomnia",
+  "definition": "The inability to fall or stay asleep for a prolonged period of time.",
+  "translations": {
+   "zh": "失眠"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "insulin-305",
+  "en": "insulin",
+  "definition": "A hormone secreted by the pancreas to regulate the amount of sugar (glucose) in the blood.",
+  "translations": {
+   "zh": "胰岛素"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "insulinoma-306",
+  "en": "insulinoma",
+  "definition": "A type of pancreatic neuroendocrine tumour that secretes too much insulin.",
+  "translations": {
+   "zh": "胰岛瘤"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "integrative-medicine-integrative-therapies-307",
+  "en": "integrative medicine (integrative therapies)",
+  "definition": "The use of both evidence-based complementary therapies as well as conventional medicine.",
+  "translations": {
+   "zh": "整合医学(整合疗法)"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "intensity-modulated-radiation-therapy-imrt-308",
+  "en": "intensity modulated radiation therapy (IMRT)",
+  "definition": "A type of external radiotherapy in which the radiation beams are aimed from several directions, while the intensity (strength) is controlled by computers.",
+  "translations": {
+   "zh": "调强适形放射治疗（IMRT）"
+  },
+  "sourcePages": {
+   "zh": 34
+  }
+ },
+ {
+  "id": "interferon-309",
+  "en": "interferon",
+  "definition": "",
+  "translations": {
+   "zh": "干扰素"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "interleukins-310",
+  "en": "interleukins",
+  "definition": "Substances (produced by the body or synthetic) which stimulate the growth of white blood cells and help the immune system to fight cancer.",
+  "translations": {
+   "zh": "白细胞介素"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "internal-radiotherapy-311",
+  "en": "internal radiotherapy",
+  "definition": "Radiation delivered directly to the tumour from within the body.",
+  "translations": {
+   "zh": "内放射治疗、近距离治疗、内照射放疗"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intolerance-312",
+  "en": "intolerance",
+  "definition": "Inability to digest a particular food properly.",
+  "translations": {
+   "zh": "不耐性、耐受不良"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intramuscular-injection-313",
+  "en": "intramuscular injection",
+  "definition": "An injection into a muscle.",
+  "translations": {
+   "zh": "肌肉注射"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intraperitoneal-314",
+  "en": "intraperitoneal",
+  "definition": "Injection into the abdominal cavity",
+  "translations": {
+   "zh": "腹腔内（注射）"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intrapleural-315",
+  "en": "intrapleural",
+  "definition": "Injection into the chest cavity",
+  "translations": {
+   "zh": "胸膜内（注射）"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intrathecal-316",
+  "en": "intrathecal",
+  "definition": "Injection into the fluid around the spine",
+  "translations": {
+   "zh": "鞘内（注射）"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intravenous-iv-317",
+  "en": "intravenous (IV)",
+  "definition": "Injected into a vein.",
+  "translations": {
+   "zh": "静脉（注射）（IV）"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intravenous-access-device-318",
+  "en": "intravenous access device",
+  "definition": "A system for giving drugs directly into a large vein near the heart. Used particularly for chemotherapy drugs, blood or nutrition (intravenous feeding). It may also be used to take blood samples. Also known as drug delivery system, central venous catheter, central line.",
+  "translations": {
+   "zh": "静脉输入装置"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "intravesical-chemotherapy-319",
+  "en": "intravesical chemotherapy",
+  "definition": "Chemotherapy that is put directly into the bladder through a tube. It is often used for treating non-muscle invasive bladder cancer.",
+  "translations": {
+   "zh": "膀胱内灌注式化疗"
+  },
+  "sourcePages": {
+   "zh": 35
+  }
+ },
+ {
+  "id": "invasive-breast-cancer-320",
+  "en": "invasive breast cancer",
+  "definition": "A form of breast cancer that has spread from the original location (milk ducts or lobules) into the surrounding breast tissue and possibly into the lymph nodes and other parts of the body. Invasive ductal cancer begins in the milk ducts. Invasive lobular cancer begins in the lobules of the breast",
+  "translations": {
+   "zh": "浸润性乳癌"
+  },
+  "sourcePages": {
+   "zh": 36
+  }
+ },
+ {
+  "id": "invasive-cancer-321",
+  "en": "invasive cancer",
+  "definition": "Cancer that has spread beyond the layer of tissue in which it developed and is growing into surrounding, healthy tissues. Also called infiltrating cancer.",
+  "translations": {
+   "zh": "浸润性癌症"
+  },
+  "sourcePages": {
+   "zh": 36
+  }
+ },
+ {
+  "id": "iodine-322",
+  "en": "iodine",
+  "definition": "An element found in food that allows the thyroid gland to produce hormones. Found in foods such as seafood, some dairy products, eggs and iodised salts.",
+  "translations": {
+   "zh": "碘"
+  },
+  "sourcePages": {
+   "zh": 36
+  }
+ },
+ {
+  "id": "irradiation-323",
+  "en": "irradiation",
+  "definition": "See radiotherapy.",
+  "translations": {
+   "zh": "放射、照射（治疗）"
+  },
+  "sourcePages": {
+   "zh": 36
+  }
+ },
+ {
+  "id": "irresectable-324",
+  "en": "irresectable",
+  "definition": "Unable to be removed by surgery. Also known as inoperable or unresectable.",
+  "translations": {
+   "zh": "不可切除的"
+  },
+  "sourcePages": {
+   "zh": 36
+  }
+ },
+ {
+  "id": "jaundice-325",
+  "en": "jaundice",
+  "definition": "A condition in which the skin and the whites of the eyes become yellow, urine darkens, and the colour of stool becomes lighter than normal. Occurs when the liver is not working properly or when a bile duct is blocked.",
+  "translations": {
+   "zh": "黄疸"
+  },
+  "sourcePages": {
+   "zh": 37
+  }
+ },
+ {
+  "id": "kaposi-sarcoma-326",
+  "en": "Kaposi sarcoma",
+  "definition": "A type of cancer caused by Kaposi sarcoma-associated herpesvirus (KSHV) in which lesions grow in the skin, lymph nodes, lining of the mouth, nose, and throat, and other tissues of the body.",
+  "translations": {
+   "zh": "卡波西肉瘤"
+  },
+  "sourcePages": {
+   "zh": 37
+  }
+ },
+ {
+  "id": "kidney-renal-cell-cancer-327",
+  "en": "kidney (renal cell) cancer",
+  "definition": "A type of cancer that occurs in the lining of tubules (very small tubes) in the kidney. Also called kidney cancer or renal adenocarcinoma",
+  "translations": {
+   "zh": "肾（肾细胞）癌"
+  },
+  "sourcePages": {
+   "zh": 37
+  }
+ },
+ {
+  "id": "kilojoule-328",
+  "en": "kilojoule",
+  "definition": "A measure of the energy value of foods. Equivalent to 1,000 joules",
+  "translations": {
+   "zh": "千焦耳"
+  },
+  "sourcePages": {
+   "zh": 37
+  }
+ },
+ {
+  "id": "laminectomy-329",
+  "en": "laminectomy",
+  "definition": "Surgery that enlarges the spinal canal to relieve pressure on the spinal cord or nerves. Also known as decompression surgery or laminectomy.",
+  "translations": {
+   "zh": "椎板切除术"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "langerhans-cell-histiocytosis-330",
+  "en": "Langerhans cell histiocytosis",
+  "definition": "A group of rare disorders in which too many Langerhans cells (a type of white blood cell) grow in certain tissues and organs including the bones, skin, and lungs, and damage them. Also called LCH.",
+  "translations": {
+   "zh": "兰格罕细胞组织球增生症"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "laparoscopy-laparoscopic-surgery-331",
+  "en": "laparoscopy/laparoscopic surgery",
+  "definition": "Surgery undertaken through small cuts in the abdomen using a tiny telescope called a laparoscope for viewing. Also called keyhole surgery or minimally invasive surgery.",
+  "translations": {
+   "zh": "腹腔镜手术"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "laparotomy-332",
+  "en": "laparotomy",
+  "definition": "A surgical incision made in the wall of the abdomen.",
+  "translations": {
+   "zh": "剖腹手术"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "laryngeal-carcinoma-333",
+  "en": "laryngeal carcinoma",
+  "definition": "A type of cancer that forms in tissues of the larynx, the area of the throat that contains the vocal cords and is used for breathing, swallowing, and talking.",
+  "translations": {
+   "zh": "喉癌"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "laryngectomy-334",
+  "en": "laryngectomy",
+  "definition": "The surgical removal of all or part of the larynx.",
+  "translations": {
+   "zh": "喉切除术"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "laryngoscopy-335",
+  "en": "laryngoscopy",
+  "definition": "A procedure to view the vocal folds and the glottis. An endoscopy of the larynx.",
+  "translations": {
+   "zh": "喉镜检查"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "late-effects-336",
+  "en": "late effects",
+  "definition": "A health problem that occurs months or years after a disease is diagnosed or after treatment has ended.",
+  "translations": {
+   "zh": "远期效应、延迟效果"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "late-stage-cancer-337",
+  "en": "late stage cancer",
+  "definition": "A term used to describe cancer that is far along in its growth, and has spread to the lymph nodes or other places in the body.",
+  "translations": {
+   "zh": "晚期癌症"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "latency-period-interval-338",
+  "en": "latency period/interval",
+  "definition": "The time between exposure to an infectious organism or a carcinogen and the clinical appearance of disease. Also referred to as an incubation period.",
+  "translations": {
+   "zh": "潜伏期/间隔"
+  },
+  "sourcePages": {
+   "zh": 38
+  }
+ },
+ {
+  "id": "laxative-339",
+  "en": "laxative",
+  "definition": "Substances used to treat or prevent constipation. They loosen stools and increase bowel movements. Also called purgatives or aperients.",
+  "translations": {
+   "zh": "通便药"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "lentigo-maligna-melanoma-340",
+  "en": "lentigo maligna melanoma",
+  "definition": "An early form of melanoma in which the malignant cells are confined to the tissue of origin, the epidermis. Also called 'in situ' melanoma.",
+  "translations": {
+   "zh": "恶性雀斑样痣黑素瘤"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "lesion-341",
+  "en": "lesion",
+  "definition": "An area of abnormal tissue. May be benign or malignant.",
+  "translations": {
+   "zh": "病灶"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "leucocyte-or-leukocyte-342",
+  "en": "leucocyte (or leukocyte)",
+  "definition": "Cells in the blood that fight infection. Also called a white blood cell.",
+  "translations": {
+   "zh": "白细胞"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "leucopoenia-343",
+  "en": "leucopoenia",
+  "definition": "A condition where the number of white blood cells circulating in the blood is abnormally low.",
+  "translations": {
+   "zh": "白细胞减少"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "leukaemia-344",
+  "en": "leukaemia",
+  "definition": "A cancer that affects the blood and bone marrow.",
+  "translations": {
+   "zh": "白血病"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "libido-345",
+  "en": "libido",
+  "definition": "Sex drive or the desire for sex.",
+  "translations": {
+   "zh": "性欲、力比多"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "life-expectancy-346",
+  "en": "life expectancy",
+  "definition": "How long, on average, a person is expected to live based on current age and sex-specific death rates. It is often expressed as the number of years of life a person born today is expected to live.",
+  "translations": {
+   "zh": "预期寿命"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "linear-accelerator-347",
+  "en": "linear accelerator",
+  "definition": "The device most commonly used for external beam radiation treatments for patients with cancer.",
+  "translations": {
+   "zh": "线性加速器"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "liver-cancer-348",
+  "en": "liver cancer",
+  "definition": "A type of cancer that occurs in the liver.",
+  "translations": {
+   "zh": "肝癌"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "liver-function-test-lft-349",
+  "en": "liver function test (LFT)",
+  "definition": "The measurement of various chemicals in the blood made by the liver.",
+  "translations": {
+   "zh": "肝功能检测（LFT）"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "lobectomy-350",
+  "en": "lobectomy",
+  "definition": "The surgical removal of a lobe of an organ. For example, of the thyroid, lung, liver or brain.",
+  "translations": {
+   "zh": "叶切除术"
+  },
+  "sourcePages": {
+   "zh": 39
+  }
+ },
+ {
+  "id": "lobular-carcinoma-in-situ-lcis-351",
+  "en": "lobular carcinoma in situ (LCIS)",
+  "definition": "A form of non-invasive breast cancer, confined to the lobules of the breast.",
+  "translations": {
+   "zh": "小叶原位癌（LCIS）"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "lobules-352",
+  "en": "lobules",
+  "definition": "Ball shaped sacs in the breast that produce milk.",
+  "translations": {
+   "zh": "腺小叶"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "local-anaesthetic-353",
+  "en": "local anaesthetic",
+  "definition": "A medication used to block the feeling of pain in a specific location in the body. It does not cause lack of consciousness .",
+  "translations": {
+   "zh": "局部麻醉"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "local-excision-354",
+  "en": "local excision",
+  "definition": "A surgical procedure to remove a small area of diseased tissue.",
+  "translations": {
+   "zh": "局部切除"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "local-recurrence-355",
+  "en": "local recurrence",
+  "definition": "Cancer that has recurred at or near the same place as the original tumour, usually after a period of time during which the cancer could not be detected.",
+  "translations": {
+   "zh": "局部复发"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "local-therapy-356",
+  "en": "local therapy",
+  "definition": "Treatment to a specific area of the body. For example, surgery or radiotherapy.",
+  "translations": {
+   "zh": "局部治疗"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "localised-cancer-357",
+  "en": "localised cancer",
+  "definition": "Where the cancer has only spread into nearby tissues. It has not spread to any lymph nodes or other body areas.",
+  "translations": {
+   "zh": "局部癌症"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "locally-advanced-breast-cancer-358",
+  "en": "locally advanced breast cancer",
+  "definition": "A form of breast cancer that has spread beyond the breast to the chest wall or the skin of the breast, or to many lymph nodes in the underarm area (axillary nodes), but not to other organs.",
+  "translations": {
+   "zh": "局部晚期乳癌"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "low-grade-abnormality-359",
+  "en": "low-grade abnormality",
+  "definition": "A less serious abnormality on a pap smear test. Sometimes referred to as mild dysplasia or cervical intraepithelial neoplasia 1.",
+  "translations": {
+   "zh": "低度异常"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "lumbar-puncture-360",
+  "en": "lumbar puncture",
+  "definition": "A procedure where fluid is taken from the spine in the lower back through a hollow needle, usually for diagnostic purposes.",
+  "translations": {
+   "zh": "腰椎穿刺"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "lump-361",
+  "en": "lump",
+  "definition": "Any mass in the body.",
+  "translations": {
+   "zh": "硬块"
+  },
+  "sourcePages": {
+   "zh": 40
+  }
+ },
+ {
+  "id": "lumpectomy-362",
+  "en": "lumpectomy",
+  "definition": "See breast conserving surgery.",
+  "translations": {
+   "zh": "乳房肿瘤切除术"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lung-cancer-363",
+  "en": "lung cancer",
+  "definition": "Cancer that occurs in the tissues of the lung, usually in the cells lining air passages. The two main types are small cell lung cancer and non-small cell lung cancer.",
+  "translations": {
+   "zh": "肺癌"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lung-function-tests-364",
+  "en": "lung function tests",
+  "definition": "Tests to measure how well a person's lungs work. Includes measuring lung size and air flow or how well gases such as oxygen get in and out of the blood. Also called pulmonary function tests.",
+  "translations": {
+   "zh": "肺功能检测"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lymph-node-dissection-365",
+  "en": "lymph node dissection",
+  "definition": "A surgical procedure in which the lymph nodes are removed and a sample of tissue is checked under a microscope for signs of cancer.",
+  "translations": {
+   "zh": "淋巴结清除术"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lymph-nodes-366",
+  "en": "lymph nodes",
+  "definition": "Small lumps of tissue containing white blood cells. They filter lymph fluid, which is composed of fluid and waste products from body tissues.",
+  "translations": {
+   "zh": "淋巴结"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lymphadenectomy-367",
+  "en": "lymphadenectomy",
+  "definition": "A surgical procedure to remove one or more lymph nodes (or groups of lymph nodes), which are then evaluated for the presence of cancer. Also called a lymph node dissection",
+  "translations": {
+   "zh": "淋巴结切除术"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lymphatic-system-368",
+  "en": "lymphatic system",
+  "definition": "A network of tissues and organs that help rid the body of toxins, waste and other unwanted materials. The primary function of the lymphatic system is to transport lymph, a fluid containing infection-fighting white blood cells, throughout the body.",
+  "translations": {
+   "zh": "淋巴系统"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lymphoedema-369",
+  "en": "lymphoedema",
+  "definition": "The accumulation of excessive amounts of protein-rich fluid which results in swelling of one or more regions of the body. Occurs when the demand for lymphatic drainage exceeds the capacity of the lymphatic circulation. Usually affects arms and legs although it may also involve the trunk, breast, head and neck or genital area.",
+  "translations": {
+   "zh": "淋巴水肿"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lymphoma-370",
+  "en": "lymphoma",
+  "definition": "Cancer that begins in the lymphatic system (the various lymph glands around the body). The two main types are Non-Hodgkin lymphoma and Hodgkin lymphoma.",
+  "translations": {
+   "zh": "淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 41
+  }
+ },
+ {
+  "id": "lynch-syndrome-371",
+  "en": "Lynch syndrome",
+  "definition": "A type of inherited cancer syndrome associated with a genetic predisposition to different cancer types. Also called hereditary non-polyposis colorectal cancer (HNPCC).",
+  "translations": {
+   "zh": "林奇综合症"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "magnetic-resonance-imaging-mri-372",
+  "en": "magnetic resonance imaging (MRI)",
+  "definition": "A non-invasive imaging technology that produces three dimensional detailed anatomical images without the use of damaging radiation. Used for disease detection, diagnosis and treatment monitoring.",
+  "translations": {
+   "zh": "磁共振成像（MRI）"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "maintenance-treatment-373",
+  "en": "maintenance treatment",
+  "definition": "Additional treatment to prevent or slow recurrence, typically following initial treatment. May include chemotherapy, hormone therapy, or targeted therapy.",
+  "translations": {
+   "zh": "维持性治疗"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "male-breast-cancer-374",
+  "en": "male breast cancer",
+  "definition": "A rare cancer that forms in the breast tissue of men.",
+  "translations": {
+   "zh": "男性乳癌"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "malignant-375",
+  "en": "malignant",
+  "definition": "Cancerous.",
+  "translations": {
+   "zh": "恶性"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "mammogram-376",
+  "en": "mammogram",
+  "definition": "An X-ray of the breast. Can be used to detect early signs of breast cancer before there are any symptoms (screening) or to investigate a breast lump (investigation).",
+  "translations": {
+   "zh": "乳房X光造影"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "mammoplasty-377",
+  "en": "mammoplasty",
+  "definition": "Refers to a group of surgical procedures, where the goal is to reshape or otherwise modify the appearance of the breast.",
+  "translations": {
+   "zh": "乳房成形术"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "margin-378",
+  "en": "margin",
+  "definition": "The rim of normal tissue surrounding a tumour that has been surgically removed. Clear margins means the entire tumour was removed. Positive margins means the entire tumour was not removed.",
+  "translations": {
+   "zh": "边缘"
+  },
+  "sourcePages": {
+   "zh": 42
+  }
+ },
+ {
+  "id": "mass-379",
+  "en": "mass",
+  "definition": "A lump in the body. May be caused by the abnormal growth of cells, a cyst, hormonal changes, or an immune reaction. May be benign or malignant.",
+  "translations": {
+   "zh": "块状物"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "mastectomy-380",
+  "en": "mastectomy",
+  "definition": "Surgical removal of the breast including the nipple area. Bilateral mastectomy means both breasts are removed.",
+  "translations": {
+   "zh": "乳房切除术"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "medical-negligence-381",
+  "en": "medical negligence",
+  "definition": "When a health care provider is proven to have breached their duty of care to a patient, causing injury or personal loss.",
+  "translations": {
+   "zh": "医疗疏忽"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "medical-oncologist-382",
+  "en": "medical oncologist",
+  "definition": "A doctor who specialises in diagnosing and treating cancer using chemotherapy, hormonal therapy, and biological therapy.",
+  "translations": {
+   "zh": "肿瘤内科医师"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "medical-trials-383",
+  "en": "medical trials",
+  "definition": "See clinical trial.",
+  "translations": {
+   "zh": "医学试验"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "meditation-384",
+  "en": "meditation",
+  "definition": "A technique of calming the mind that aims for inner feelings of calm and peacefulness.",
+  "translations": {
+   "zh": "冥想"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "melanin-385",
+  "en": "melanin",
+  "definition": "A dark pigment produced in melanocytes that gives skin its colour.",
+  "translations": {
+   "zh": "黑色素"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "melanoma-386",
+  "en": "melanoma",
+  "definition": "Cancer of the melanocytes. The cancer usually appears on the skin, but may affect the eye and mucous membranes. Excessive exposure to ultraviolet radiation contributes to the development of melanoma.",
+  "translations": {
+   "zh": "黑色素瘤"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "meninges-387",
+  "en": "meninges",
+  "definition": "The membranes that cover and protect the central nervous system.",
+  "translations": {
+   "zh": "脑膜"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "meningioma-388",
+  "en": "meningioma",
+  "definition": "A type of benign brain tumour.",
+  "translations": {
+   "zh": "脑膜瘤"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "menopause-389",
+  "en": "menopause",
+  "definition": "The end of menstruation (periods).",
+  "translations": {
+   "zh": "停经"
+  },
+  "sourcePages": {
+   "zh": 43
+  }
+ },
+ {
+  "id": "merkel-cell-390",
+  "en": "Merkel cell",
+  "definition": "",
+  "translations": {
+   "zh": "梅克尔细胞"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "merkel-cell-carcinoma-391",
+  "en": "Merkel cell carcinoma",
+  "definition": "a rare type of skin cancer that usually appears as a flesh-coloured or bluish-red nodule, often on the face, head or neck. Also called neuroendocrine carcinoma of the skin.",
+  "translations": {
+   "zh": "梅克尔细胞癌"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "mesh-392",
+  "en": "mesh",
+  "definition": "A reinforcing material that is sometimes used in surgical procedures.",
+  "translations": {
+   "zh": "网膜"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "mesothelioma-393",
+  "en": "mesothelioma",
+  "definition": "in the membranes of the lungs.",
+  "translations": {
+   "zh": "间皮瘤"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "metabolism-394",
+  "en": "metabolism",
+  "definition": "The chemical process by which food is changed into energy in the body.",
+  "translations": {
+   "zh": "新陈代谢"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "metastasis-plural-metastases-395",
+  "en": "metastasis (plural: metastases)",
+  "definition": "The spread of cancer to another part of the body.",
+  "translations": {
+   "zh": "转移"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "metastatic-breast-cancer-396",
+  "en": "metastatic breast cancer",
+  "definition": "A form of breast cancer that has spread beyond the breast and lymph nodes under the arm to other parts of the body such as the bones, lungs, liver or, less commonly, brain. Also known as advanced, secondary or stage 4 breast cancer.",
+  "translations": {
+   "zh": "转移性乳癌"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "metastatic-cancer-397",
+  "en": "metastatic cancer",
+  "definition": "Cancer that has spread to another part of the body. Also called secondary cancer, though the secondary tumours are the same type of cancer as the original cancer.",
+  "translations": {
+   "zh": "转移性癌症"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "microcalcifications-398",
+  "en": "microcalcifications",
+  "definition": "Small deposits of calcium in the breast. They show up as white dots on a mammogram and are sometimes a sign of Ductal Carcinoma In Situ (DCIS).",
+  "translations": {
+   "zh": "微钙化"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "microsurgery-399",
+  "en": "microsurgery",
+  "definition": "The use of microscopes and mini-instruments for surgery on very small structures.",
+  "translations": {
+   "zh": "显微外科手术"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "minerals-400",
+  "en": "minerals",
+  "definition": "Components of food that are essential for the body, similar to vitamins. For example, iron, calcium and magnesium.",
+  "translations": {
+   "zh": "矿物质"
+  },
+  "sourcePages": {
+   "zh": 44
+  }
+ },
+ {
+  "id": "models-of-care-401",
+  "en": "models of care",
+  "definition": "A model that explains clearly the how, where, who and what health care is provided. It identifies a standard or example, for imitation or comparison, combining concepts, belief and intent.",
+  "translations": {
+   "zh": "医护服务模式"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "modified-release-medication-402",
+  "en": "modified release medication",
+  "definition": "A medication that alters the timing and/or the rate of release of the drug substance. Also called sustained release or slow release.",
+  "translations": {
+   "zh": "改良型缓释药物"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "mole-403",
+  "en": "mole",
+  "definition": "Describes any pigmented (coloured), fleshy growth on the skin.",
+  "translations": {
+   "zh": "痣"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "monoclonal-antibody-404",
+  "en": "monoclonal antibody",
+  "definition": "A group of targeted therapy drugs that lock onto a specific protein on the surface of cancer cells and interfere",
+  "translations": {
+   "zh": "单克隆抗体"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "morbidity-405",
+  "en": "morbidity",
+  "definition": "Sickness, illness.",
+  "translations": {
+   "zh": "病状"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "morphine-406",
+  "en": "morphine",
+  "definition": "A strong and effective opioid pain reliever that is commonly used to treat people with cancer who have pain.",
+  "translations": {
+   "zh": "吗啡"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "mortality-407",
+  "en": "mortality",
+  "definition": "The death rate, or the number of deaths in a certain group of people in a certain period of time. Mortality may be reported for people who have a certain disease, live in one area of the country, or who are of a certain sex, age, or ethnic group.",
+  "translations": {
+   "zh": "死亡率"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "mri-magnetic-resonance-imaging-408",
+  "en": "MRI (magnetic resonance imaging)",
+  "definition": "A scan using magnets and radio waves to make a detailed picture of organs or soft tissues in the body.",
+  "translations": {
+   "zh": "（MRI）磁共振成像"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "mtor-inhibitors-409",
+  "en": "mTOR inhibitors",
+  "definition": "A class of targeted therapy that may increase the benefit of hormone therapy.",
+  "translations": {
+   "zh": "mTOR(雷帕霉素靶蛋白)抑制剂"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "mucosa-410",
+  "en": "mucosa",
+  "definition": "The moist tissue lining the organs of the body. For example, the digestive tract, lungs and nose.",
+  "translations": {
+   "zh": "黏膜"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "mucositis-411",
+  "en": "mucositis",
+  "definition": "Sores in the mouth or throat.",
+  "translations": {
+   "zh": "黏膜炎"
+  },
+  "sourcePages": {
+   "zh": 45
+  }
+ },
+ {
+  "id": "multidisciplinary-care-412",
+  "en": "multidisciplinary care",
+  "definition": "An integrated team approach to cancer care. Medical, nursing and allied health professionals involved in a collaboratively develop an individual care plan that best meets the needs of that patient.",
+  "translations": {
+   "zh": "多学科护理"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "multidisciplinary-team-mdt-413",
+  "en": "multidisciplinary team (MDT)",
+  "definition": "An integrated team can include a general practitioner, a surgeon, a medical oncologist, a radiation oncologist, a palliative care specialist, a nurse consultant, nurses, a dietician, a physiotherapist, an occupational therapist, a social worker, a psychologist, a counsellor and a pastoral care worker.",
+  "translations": {
+   "zh": "多学科综合治疗团队（MDT）"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "multiple-myeloma-414",
+  "en": "multiple myeloma",
+  "definition": "Cancer arising in plasma cells.",
+  "translations": {
+   "zh": "多发性骨髓瘤"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "mutation-415",
+  "en": "mutation",
+  "definition": "A change in a gene causing a permanent change in the DNA sequence.",
+  "translations": {
+   "zh": "变异"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "mycosis-fungoides-416",
+  "en": "mycosis fungoides",
+  "definition": "The most common type of cutaneous T cell lymphoma (CTCL). A slow growing form of cancer in which some of the body's white blood cells become malignant.",
+  "translations": {
+   "zh": "蕈样肉芽肿"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "myelodysplastic-syndromes-417",
+  "en": "myelodysplastic syndromes",
+  "definition": "A group of diseases that affects normal blood cell production in the bone marrow. In MDS, the bone marrow produces abnormal, immature blood cells called blast cells. These cells fail to mature properly are unable to work properly.",
+  "translations": {
+   "zh": "骨髓增生异常综合症"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "myeloid-418",
+  "en": "myeloid",
+  "definition": "Relating to bone marrow.",
+  "translations": {
+   "zh": "骨髓的"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "myeloma-419",
+  "en": "myeloma",
+  "definition": "A type of cancer that develops from plasma cells in the bone marrow. Myeloma is often called multiple myeloma because most people (90%) have multiple bone lesions at the time it is diagnosed.",
+  "translations": {
+   "zh": "骨髓瘤"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "myeloproliferative-neoplasms-420",
+  "en": "myeloproliferative neoplasms",
+  "definition": "Blood cancers that occur when the body makes too many white or red blood cells, or platelets.",
+  "translations": {
+   "zh": "骨髓增殖性肿瘤"
+  },
+  "sourcePages": {
+   "zh": 46
+  }
+ },
+ {
+  "id": "nasogastric-ng-tube-421",
+  "en": "nasogastric (NG) tube",
+  "definition": "A flexible bidirectional tube made of rubber or plastic that is passed through the nose and down through the nasopharynx and oesophagus into the stomach. It can be used to replace fluids when a person is unable to take them in orally or to remove fluids",
+  "translations": {
+   "zh": "鼻胃（NG）管"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "nausea-nauseous-422",
+  "en": "nausea/nauseous",
+  "definition": "Uneasiness of the stomach. Sometimes proceeds vomiting.",
+  "translations": {
+   "zh": "恶心/反胃"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "neck-dissection-423",
+  "en": "neck dissection",
+  "definition": "A surgical procedure in which the fibrofatty contents of the neck are removed for the treatment of cervical lymphatic metastases.",
+  "translations": {
+   "zh": "颈淋巴结清除术"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "needs-based-approach-to-cancer-care-424",
+  "en": "needs-based approach to cancer care",
+  "definition": "Directing people who live in a rural area to the most appropriate service based on their needs. Some people can be diagnosed, assessed and treated locally, some will need to be assessed elsewhere but can be treated locally. Others will have complex care needs and/or requirements multi-modal treatments provided by a major cancer service.",
+  "translations": {
+   "zh": "基于患者需求的癌症护理方法"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "neoadjuvant-therapy-425",
+  "en": "neoadjuvant therapy",
+  "definition": "A type of induction therapy. Treatment is given as a first step to shrink a tumour before the main treatment is given. May include chemotherapy, radiation therapy, and hormone therapy.",
+  "translations": {
+   "zh": "新辅助疗法"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "neoplasia-426",
+  "en": "neoplasia",
+  "definition": "Abnormal and uncontrolled cell growth.",
+  "translations": {
+   "zh": "瘤形成"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "nerve-sparing-427",
+  "en": "nerve sparing",
+  "definition": "A type of surgery to save nerves.",
+  "translations": {
+   "zh": "神经保留（手术）"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "nervous-system-428",
+  "en": "nervous system",
+  "definition": "The network of nerve cells and fibres which transmits nerve impulses between parts of the body.",
+  "translations": {
+   "zh": "神经系统"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "neuroblastoma-429",
+  "en": "neuroblastoma",
+  "definition": "The most common solid tumour of childhood, arising from particular nerve cells which run in a chain-like fashion",
+  "translations": {
+   "zh": "神经母细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "neuroendocrine-tumour-nets-430",
+  "en": "neuroendocrine tumour (NETs)",
+  "definition": "A rare type of tumour that develops from cells of the neuroendocrine system. Some NETs may be called carcinoid tumours.",
+  "translations": {
+   "zh": "神经内分泌瘤 (NETs)"
+  },
+  "sourcePages": {
+   "zh": 47
+  }
+ },
+ {
+  "id": "neurologist-431",
+  "en": "neurologist",
+  "definition": "A doctor who specialises in the anatomy, functions, and organic disorders of nerves and the nervous system.",
+  "translations": {
+   "zh": "神经科医师"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "neuron-432",
+  "en": "neuron",
+  "definition": "Cells within the nervous system that transmit information to other nerve cells, muscle, or gland cells. Most neurons have a cell body, an axon, and dendrites.",
+  "translations": {
+   "zh": "神经元"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "neuropathic-pain-433",
+  "en": "neuropathic pain",
+  "definition": "A complex, chronic pain state that usually is accompanied by tissue injury. Nerve fibres themselves may be damaged, dysfunctional, or injured. These damaged nerve fibres send incorrect signals to other pain centres.",
+  "translations": {
+   "zh": "神经性疼痛"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "neurosurgeon-434",
+  "en": "neurosurgeon",
+  "definition": "A doctor specialising in surgery of the brain and other parts of the nervous system.",
+  "translations": {
+   "zh": "神经外科医师"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "neutropenia-435",
+  "en": "neutropenia",
+  "definition": "An abnormally low level of neutrophils.",
+  "translations": {
+   "zh": "嗜中性白血球减少症"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "neutrophils-436",
+  "en": "neutrophils",
+  "definition": "A type of white blood cell. One of the first cell types to travel to the site of an infection.",
+  "translations": {
+   "zh": "中性白细胞、中性粒细胞"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "nil-by-mouth-437",
+  "en": "nil by mouth",
+  "definition": "A medical term where a patient is not to eat or drink anything.",
+  "translations": {
+   "zh": "禁食"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "nodule-438",
+  "en": "nodule",
+  "definition": "A small swelling or aggregation of cells in the body, especially an abnormal one.",
+  "translations": {
+   "zh": "节结"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "non-functioning-tumour-439",
+  "en": "non-functioning tumour",
+  "definition": "A tumour found in endocrine tissue which does not make extra hormones. Non-functioning tumours usually do not cause symptoms until they grow large or spread to other parts of the body. Also called endocrine-inactive tumour.",
+  "translations": {
+   "zh": "非功能性肿瘤"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "non-hodgkin-lymphoma-440",
+  "en": "non-Hodgkin lymphoma",
+  "definition": "A type of lymphoma. Most commonly occurs in a lymph node but it can also occur in the liver, spleen, stomach or bones. There are two classifications: B-cell and T-cell lymphomas. There are more than 60 sub-types.",
+  "translations": {
+   "zh": "非霍奇金淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "non-invasive-cancer-441",
+  "en": "non-invasive (cancer)",
+  "definition": "Describes disease that has not spread outside the tissue in which it began.",
+  "translations": {
+   "zh": "非浸润性（癌症）"
+  },
+  "sourcePages": {
+   "zh": 48
+  }
+ },
+ {
+  "id": "non-invasive-procedure-442",
+  "en": "non-invasive (procedure)",
+  "definition": "A procedure that does not require insertion of an instrument through the skin or into a body opening.",
+  "translations": {
+   "zh": "无创伤（治疗过程）"
+  },
+  "sourcePages": {
+   "zh": 49
+  }
+ },
+ {
+  "id": "non-melanoma-skin-cancer-443",
+  "en": "non-melanoma skin cancer",
+  "definition": "Skin cancers that are not classified as a melanoma. The two main types are basal cell carcinoma and squamous cell carcinoma.",
+  "translations": {
+   "zh": "非黑色素瘤皮肤癌"
+  },
+  "sourcePages": {
+   "zh": 49
+  }
+ },
+ {
+  "id": "non-small-cell-lung-cancer-nsclc-444",
+  "en": "non-small cell lung cancer (NSCLC)",
+  "definition": "The most common type of lung cancer. It usually grows and spreads more slowly than small cell lung cancer. Common subtypes include squamous cell carcinoma, adenocarcinoma, and large cell carcinoma.",
+  "translations": {
+   "zh": "非小细胞性肺癌 (NSCLC)"
+  },
+  "sourcePages": {
+   "zh": 49
+  }
+ },
+ {
+  "id": "nuclear-medicine-445",
+  "en": "nuclear medicine",
+  "definition": "A type of medicine that uses small amounts of radioactive substances to take pictures of areas inside the body and to treat disease, such as cancer. In cancer, the radioactive substance may be used with a special machine (such as a PET scanner) to find the cancer, to see how far it has spread, or to see how well a treatment is working.",
+  "translations": {
+   "zh": "核医疗学、核医学"
+  },
+  "sourcePages": {
+   "zh": 49
+  }
+ },
+ {
+  "id": "nurse-care-coordinator-446",
+  "en": "nurse care coordinator",
+  "definition": "A registered nurse who specialises in caring for people with cancer and their families.",
+  "translations": {
+   "zh": "护士护理协调员"
+  },
+  "sourcePages": {
+   "zh": 49
+  }
+ },
+ {
+  "id": "nutritionist-447",
+  "en": "nutritionist",
+  "definition": "A health professional who provides information and support about nutrition.",
+  "translations": {
+   "zh": "营养师"
+  },
+  "sourcePages": {
+   "zh": 49
+  }
+ },
+ {
+  "id": "oedema-448",
+  "en": "oedema",
+  "definition": "Abnormally large amounts of fluid in the tissues. Also called swelling.",
+  "translations": {
+   "zh": "水肿"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oesophageal-cancer-449",
+  "en": "oesophageal cancer",
+  "definition": "A type of cancer that occurs in the oesophagus.",
+  "translations": {
+   "zh": "食道癌"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oestrogen-450",
+  "en": "oestrogen",
+  "definition": "A female hormone. Some cancers need oestrogen to grow.",
+  "translations": {
+   "zh": "雌激素"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oestrogen-receptor-positive-er-451",
+  "en": "oestrogen receptor positive (ER+)",
+  "definition": "Proteins within cancer cells that bind to female hormone oestrogen and stimulates them to grow.",
+  "translations": {
+   "zh": "雌激素受体阳性 (ER+)"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oligodendroglioma-452",
+  "en": "oligodendroglioma",
+  "definition": "A type of malignant brain tumour.",
+  "translations": {
+   "zh": "少突神经胶质瘤、寡树突胶质瘤"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oncologist-453",
+  "en": "oncologist",
+  "definition": "A doctor who specialises in the study and treatment of cancer.",
+  "translations": {
+   "zh": "肿瘤科医师"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oncology-454",
+  "en": "oncology",
+  "definition": "The study, diagnosis and treatment of cancer.",
+  "translations": {
+   "zh": "肿瘤学"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "oophorectomy-455",
+  "en": "oophorectomy",
+  "definition": "The surgical removal of an ovary. The removal of both ovaries is called a bilateral oophorectomy.",
+  "translations": {
+   "zh": "卵巢切除术"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "opioids-456",
+  "en": "opioids",
+  "definition": "The strongest type of pain medicine. Includes morphine, fentanyl, codeine, oxycodone, hydromorphone and methadone.",
+  "translations": {
+   "zh": "类罂粟碱、鸦片类药物、阿片类药物"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "osteoporosis-457",
+  "en": "osteoporosis",
+  "definition": "A decrease in bone mass, causing bones to become fragile and brittle and therefore liable to break.",
+  "translations": {
+   "zh": "骨质疏松症"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "osteosarcoma-458",
+  "en": "osteosarcoma",
+  "definition": "Cancer of the bone. Most often develops in a leg or arm bone. Also called osteogeneic sarcoma.",
+  "translations": {
+   "zh": "骨肉瘤"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "outpatient-459",
+  "en": "outpatient",
+  "definition": "A person who receives medical treatment without being admitted into hospital.",
+  "translations": {
+   "zh": "门诊病人"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "ovarian-cancer-460",
+  "en": "ovarian cancer",
+  "definition": "A type of cancer that develops in an ovary.",
+  "translations": {
+   "zh": "卵巢癌"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "ovaries-461",
+  "en": "ovaries",
+  "definition": "The female sex organs, which secrete important female hormones and contain the ova.",
+  "translations": {
+   "zh": "卵巢"
+  },
+  "sourcePages": {
+   "zh": 50
+  }
+ },
+ {
+  "id": "paget-s-disease-of-the-breast-462",
+  "en": "Paget's disease of the breast",
+  "definition": "A rare form of breast cancer that affects the nipple or areola. Many people also have a breast cancer somewhere in the same breast.",
+  "translations": {
+   "zh": "乳房派杰氏病"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "pain-medicine-specialist-463",
+  "en": "pain medicine specialist",
+  "definition": "A medical specialist who treats complex pain problems.",
+  "translations": {
+   "zh": "疼痛医学专家"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "pain-scale-464",
+  "en": "pain scale",
+  "definition": "A scale that helps the patients to show how mild or severe their pain is based on a range of numbers, descriptions or facial expressions.",
+  "translations": {
+   "zh": "疼痛指数"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "palliative-cancer-treatment-465",
+  "en": "palliative cancer treatment",
+  "definition": "Treatment which aims to provide relief from symptoms without attempting to cure the disease. Also called palliative care or palliation.",
+  "translations": {
+   "zh": "缓和医疗、安宁疗护"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "palliative-care-466",
+  "en": "palliative care",
+  "definition": "Care focused on symptom control and support when cancer cannot be cured.",
+  "translations": {
+   "zh": "宁养疗护"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "palliative-care-specialist-physician-467",
+  "en": "palliative care specialist (physician)",
+  "definition": "A doctor who has specialised in the field of palliative medicine.",
+  "translations": {
+   "zh": "宁养疗护专家（内科医师）"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "pancreatic-cancer-468",
+  "en": "pancreatic cancer",
+  "definition": "A type of cancer that occurs in the pancreas.",
+  "translations": {
+   "zh": "胰腺癌"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "pancreatic-neuroendocrine-tumour-pnet-469",
+  "en": "pancreatic neuroendocrine tumour (PNET)",
+  "definition": "A neuroendocrine tumour affecting the pancreas.",
+  "translations": {
+   "zh": "胰腺神经内分泌肿瘤 (PNET)"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "pancreatitis-470",
+  "en": "pancreatitis",
+  "definition": "Inflammation of the pancreas.",
+  "translations": {
+   "zh": "胰腺炎"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "papillary-urothelial-carcinoma-471",
+  "en": "papillary urothelial carcinoma",
+  "definition": "A tumour that projects into the hollow of the bladder.",
+  "translations": {
+   "zh": "乳头状泌尿上皮癌"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "paracentesis-472",
+  "en": "paracentesis",
+  "definition": "A procedure to drain away excess fluid from the abdomen.",
+  "translations": {
+   "zh": "（放液）穿刺术"
+  },
+  "sourcePages": {
+   "zh": 51
+  }
+ },
+ {
+  "id": "parathyroid-cancer-473",
+  "en": "parathyroid cancer",
+  "definition": "A rare cancer that forms in tissues of one or more of the parathyroid glands (four pea-sized glands in the neck that make parathyroid hormone, which helps the body store and use calcium).",
+  "translations": {
+   "zh": "甲状旁腺癌"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "parenteral-nutrition-474",
+  "en": "parenteral nutrition",
+  "definition": "The delivery of calories and nutrients into a vein.",
+  "translations": {
+   "zh": "肠外营养"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "parp-inhibitor-475",
+  "en": "PARP inhibitor",
+  "definition": "A type of targeted therapy that blocks an enzyme (PARP enzyme) involved in DNA repair, causing cancer cells to die.",
+  "translations": {
+   "zh": "PARP(多聚 ADP核糖聚合酶)抑制剂"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "partial-mastectomy-476",
+  "en": "partial mastectomy",
+  "definition": "See breast conserving surgery.",
+  "translations": {
+   "zh": "局部乳房切除术"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "participant-information-477",
+  "en": "participant information",
+  "definition": "An information sheet that explains everything a participant needs to know about a clinical trial or treatment. Also called a fact sheet.",
+  "translations": {
+   "zh": "治疗须知、参与者信息"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "passive-smoking-478",
+  "en": "passive smoking",
+  "definition": "Breathing in second-hand smoke.",
+  "translations": {
+   "zh": "被动吸烟"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "pathologist-breast-cancer-479",
+  "en": "pathologist (breast cancer)",
+  "definition": "A doctor who uses a microscope to study the breast tissue and lymph nodes removed during biopsy or surgery to diagnose cancer and other diseases.",
+  "translations": {
+   "zh": "病理学医师（乳癌）"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "pathologist-general-480",
+  "en": "pathologist (general)",
+  "definition": "A doctor who studies diseases to understand their nature and cause. Pathologists examine biopsies under a microscope to diagnose cancer and other diseases.",
+  "translations": {
+   "zh": "病理学医师（普通科）"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "pathology-481",
+  "en": "pathology",
+  "definition": "The study of diseases, especially their causes and nature.",
+  "translations": {
+   "zh": "病理学"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "pathology-report-482",
+  "en": "pathology report",
+  "definition": "A document that provides information about cancerous tissue, such as its size and location, hormonal status, how far it has spread, how fast it is growing, and surgical margins.",
+  "translations": {
+   "zh": "病理报告"
+  },
+  "sourcePages": {
+   "zh": 52
+  }
+ },
+ {
+  "id": "patient-controlled-analgesia-pca-system-483",
+  "en": "patient-controlled analgesia (PCA) system",
+  "definition": "An intravenous system allowing a patient to self-administer a measured dose of pain relief by pressing a button.",
+  "translations": {
+   "zh": "病人自控镇痛（PCA）系统"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "pelvic-examination-484",
+  "en": "pelvic examination",
+  "definition": "A way to diagnose pelvic abnormalities, where a health professional examines the organs of the pelvis by feeling them with fingers inserted into the vagina and/or rectum. Also called internal examination.",
+  "translations": {
+   "zh": "盆腔检查"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "pelvic-exenteration-485",
+  "en": "pelvic exenteration",
+  "definition": "The surgical removal of the affected organs.",
+  "translations": {
+   "zh": "盆腔廓清术"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "penile-cancer-486",
+  "en": "penile cancer",
+  "definition": "Cancer that occurs in the tissues of the penis.",
+  "translations": {
+   "zh": "阴茎癌"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "people-affected-by-cancer-487",
+  "en": "people affected by cancer",
+  "definition": "People who have had a personal experience of cancer, including patients, people living with cancer, cancer survivors, caregivers and family members.",
+  "translations": {
+   "zh": "受癌症影响的人士"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "percutaneous-488",
+  "en": "percutaneous",
+  "definition": "Through the skin.",
+  "translations": {
+   "zh": "经过皮肤的"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "percutaneous-endoscopic-gastrostomy-peg-tube-489",
+  "en": "percutaneous endoscopic gastrostomy (PEG) tube",
+  "definition": "A feeding tube inserted directly into the stomach through the abdomen wall.",
+  "translations": {
+   "zh": "经皮内镜下胃造口术（PEG）管"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "percutaneous-endoscopic-jejunostomy-pej-tube-490",
+  "en": "percutaneous endoscopic jejunostomy (PEJ) tube",
+  "definition": "A feeding tube inserted through the abdomen directly into the small bowel (jejunum), bypassing the stomach.",
+  "translations": {
+   "zh": "经皮内镜下空肠造口术（PEJ）管"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "peripheral-neuropathy-491",
+  "en": "peripheral neuropathy",
+  "definition": "Weaknesses, numbness, tingling or pain, usually in the hands and feet, caused by damage to the nerves that are located away from the brain and spinal cord (peripheral nerves). Can be a side effect of chemotherapy.",
+  "translations": {
+   "zh": "周围神经病变"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "peripherally-inserted-central-catheter-picc-492",
+  "en": "peripherally inserted central catheter (PICC)",
+  "definition": "A type of central venous access device that is inserted into a vein in the arm.",
+  "translations": {
+   "zh": "外周中心静脉置管（PICC）"
+  },
+  "sourcePages": {
+   "zh": 53
+  }
+ },
+ {
+  "id": "peritoneal-cancer-493",
+  "en": "peritoneal cancer",
+  "definition": "A rare type of cancer that develops in the peritoneum, a thin layer of tissue that lines the abdomen. It also covers the uterus, bladder, and rectum.",
+  "translations": {
+   "zh": "腹膜癌"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "pet-scan-positron-emission-tomography-494",
+  "en": "PET scan (positron emission tomography)",
+  "definition": "A type of scan that produces a three-dimensional image giving details on the structure and function of organs or tissues.",
+  "translations": {
+   "zh": "PET扫描（正电子发射计算机断层扫描）"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "phantom-pain-495",
+  "en": "phantom pain",
+  "definition": "Pain felt in a limb or body part even though it has been surgically removed.",
+  "translations": {
+   "zh": "幻肢痛感"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "pituitary-tumour-496",
+  "en": "pituitary tumour",
+  "definition": "A type of benign brain tumour.",
+  "translations": {
+   "zh": "垂体肿瘤"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "placebo-497",
+  "en": "placebo",
+  "definition": "A dummy pill or injection, which looks like the new treatment being tested in a clinical trial but contains no active ingredient.",
+  "translations": {
+   "zh": "安慰剂"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "placebo-effect-498",
+  "en": "placebo effect",
+  "definition": "Occurs when someone who is given a placebo (such as a sugar pill) feels an improvement, like a reduction in symptoms.",
+  "translations": {
+   "zh": "安慰剂效应"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "plasma-499",
+  "en": "plasma",
+  "definition": "The fluid portion of blood in which the blood cells and platelets are suspended.",
+  "translations": {
+   "zh": "血浆"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "plastic-surgeon-500",
+  "en": "plastic surgeon",
+  "definition": "A doctor specialising in surgery to restore skin and tissue to near-normal appearance and function. Also known as a reconstructive surgeon.",
+  "translations": {
+   "zh": "整形外科医生"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "plastic-surgery-501",
+  "en": "plastic surgery",
+  "definition": "A type of surgery which focuses on reconstructing damaged or deformed parts of the body, or rebuilding parts that have been lost.",
+  "translations": {
+   "zh": "整形手术"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "platelets-502",
+  "en": "platelets",
+  "definition": "One of three types of cells found in the blood. Platelets help the blood to clot and stop bleeding. Also called thrombocytes.",
+  "translations": {
+   "zh": "血小板"
+  },
+  "sourcePages": {
+   "zh": 54
+  }
+ },
+ {
+  "id": "pleura-503",
+  "en": "pleura",
+  "definition": "The membrane that covers the ribcage and lines the lungs.",
+  "translations": {
+   "zh": "胸膜"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "pleural-cavity-504",
+  "en": "pleural cavity",
+  "definition": "The space between the two layers of the pleura, which normally contains a small amount of fluid.",
+  "translations": {
+   "zh": "胸膜腔"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "pleural-effusion-505",
+  "en": "pleural effusion",
+  "definition": "A build-up of fluid in the pleural cavity or space between the pleural membranes",
+  "translations": {
+   "zh": "胸腔积液"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "pleural-tap-506",
+  "en": "pleural tap",
+  "definition": "A procedure to remove air or fluid from the chest, using a hollow needle. Also known as thoracentesis.",
+  "translations": {
+   "zh": "胸腔穿刺术（放液）"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "pneumonia-507",
+  "en": "pneumonia",
+  "definition": "A bacterial infection in the lungs which causes some of the air sacs fill up with pus.",
+  "translations": {
+   "zh": "肺炎"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "polyp-508",
+  "en": "polyp",
+  "definition": "An abnormal growth that protrudes from a mucous membrane, often on a stalk.",
+  "translations": {
+   "zh": "息肉"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "port-a-cath-port-509",
+  "en": "port-a-cath (port)",
+  "definition": "A type of central venous access device. A thin tube put into a vein with an opening under the skin for delivering medicine.",
+  "translations": {
+   "zh": "植入式导管（注射座）"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "precancerous-510",
+  "en": "precancerous",
+  "definition": "A condition that may become a cancer if it is not treated.",
+  "translations": {
+   "zh": "癌前期的"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "pre-existing-condition-511",
+  "en": "pre-existing condition",
+  "definition": "An illness or injury that existed before applying for an insurance policy.",
+  "translations": {
+   "zh": "预先存在的病情、宿疾"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "premature-menopause-512",
+  "en": "premature menopause",
+  "definition": "See early menopause.",
+  "translations": {
+   "zh": "过早停经"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "prescription-medicine-513",
+  "en": "prescription medicine",
+  "definition": "Medicine that can only be given by a pharmacist after receiving authority from a doctor via a prescription.",
+  "translations": {
+   "zh": "处方药"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "primary-cancer-514",
+  "en": "primary cancer",
+  "definition": "The original part of the body where the cancer first develops.",
+  "translations": {
+   "zh": "原发性癌症"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "primary-care-515",
+  "en": "primary care",
+  "definition": "Health care provided in the community for people making an initial approach to a medical practitioner or clinic for advice or treatment.",
+  "translations": {
+   "zh": "初级保健"
+  },
+  "sourcePages": {
+   "zh": 55
+  }
+ },
+ {
+  "id": "protocol-516",
+  "en": "protocol",
+  "definition": "Written instructions about how, when, where and who to complete a specific task. Protocols may refer to a clinical care process (i.e. chemotherapy or radiotherapy) or the working relationship between agencies.",
+  "translations": {
+   "zh": "治疗方案"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "psychiatrist-517",
+  "en": "psychiatrist",
+  "definition": "A doctor who specialises in the prevention, diagnosis, and treatment of mental, emotional, and behavioural disorders.",
+  "translations": {
+   "zh": "精神病专家"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "psychologist-518",
+  "en": "psychologist",
+  "definition": "A health professional who talks with patients and their families about emotional and personal matters, and can help them make decisions.",
+  "translations": {
+   "zh": "心理师"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "psycho-oncologist-519",
+  "en": "psycho-oncologist",
+  "definition": "A psychologist or psychiatrist who has special training and experience in the treatment of psychosocial aspects of cancer.",
+  "translations": {
+   "zh": "肿瘤科心理师"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "psycho-oncology-520",
+  "en": "psycho-oncology",
+  "definition": "A field of interdisciplinary study and practice at the intersection of lifestyle, psychology and oncology. It is concerned with aspects of cancer that go beyond medical treatment and include lifestyle, psychological and social aspects of cancer.",
+  "translations": {
+   "zh": "心理肿瘤学"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "psychosocial-521",
+  "en": "psychosocial",
+  "definition": "Relating to the interrelation of social factors and individual thought and behaviour.",
+  "translations": {
+   "zh": "社会心理的"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "puberty-522",
+  "en": "puberty",
+  "definition": "The process of reaching sexual maturity and becoming capable of reproduction.",
+  "translations": {
+   "zh": "青春期"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "pulmonary-523",
+  "en": "pulmonary",
+  "definition": "Relating to the lungs.",
+  "translations": {
+   "zh": "肺的"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "pulmonary-function-tests-524",
+  "en": "pulmonary function tests",
+  "definition": "See lung function tests.",
+  "translations": {
+   "zh": "肺功能测试"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "pulse-analysis-525",
+  "en": "pulse analysis",
+  "definition": "",
+  "translations": {
+   "zh": "把脉"
+  },
+  "sourcePages": {
+   "zh": 56
+  }
+ },
+ {
+  "id": "quality-of-life-526",
+  "en": "quality of life",
+  "definition": "The general well-being of individuals and societies, encompassing negative and positive features of life. It observes life satisfaction, including everything from physical health, family, education, employment, wealth, religious beliefs, finance and the environment.",
+  "translations": {
+   "zh": "生活质量"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiation-527",
+  "en": "radiation",
+  "definition": "Energy in the form of waves or particles, including gamma rays, x-rays and ultraviolet (UV) rays. This energy is harmful to cells and is used in radiotherapy to destroy cancer cells.",
+  "translations": {
+   "zh": "放射"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiation-oncologist-528",
+  "en": "radiation oncologist",
+  "definition": "A doctor who specialises in the treatment of cancer used targeted high energy X-rays.",
+  "translations": {
+   "zh": "放射肿瘤医师"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiation-therapist-529",
+  "en": "radiation therapist",
+  "definition": "A health professional who administers radiotherapy.",
+  "translations": {
+   "zh": "放射治疗师"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radical-treatment-530",
+  "en": "radical treatment",
+  "definition": "Treatment given with the intention of curing or eliminating the underlying disease.",
+  "translations": {
+   "zh": "根治性治疗"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radioactive-iodine-531",
+  "en": "radioactive iodine",
+  "definition": "A form of iodine often used for imaging tests or as a treatment for cancer. Also called RAI or I131.",
+  "translations": {
+   "zh": "放射性碘"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiographer-532",
+  "en": "radiographer",
+  "definition": "A technician trained in taking x-ray pictures of parts of the body to diagnose illnesses and disorders.",
+  "translations": {
+   "zh": "放射科技师"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiologist-533",
+  "en": "radiologist",
+  "definition": "A doctor who specialises in the use and interpretation of X-rays and other imaging devices (e.g. CT scans) in diagnosing disorders and diseases.",
+  "translations": {
+   "zh": "放射科医师"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiology-534",
+  "en": "radiology",
+  "definition": "The use of radiation and other imaging technologies to diagnose and treat disease.",
+  "translations": {
+   "zh": "放射学"
+  },
+  "sourcePages": {
+   "zh": 58
+  }
+ },
+ {
+  "id": "radiotherapy-or-radiation-oncology-535",
+  "en": "radiotherapy or radiation oncology",
+  "definition": "The use of radiation, usually x-rays or gamma rays, to kill tumour cells or injure them so they cannot grow or multiply.",
+  "translations": {
+   "zh": "放射治疗或放射肿瘤学"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "radiotherapy-or-radiation-oncology-breast-cancer-536",
+  "en": "radiotherapy or radiation oncology (breast cancer)",
+  "definition": "The use of radiation, usually x-rays or gamma rays, to kill any cancer cells that may be left in the breast or armpit after surgery. It is usually recommended after breast conserving surgery. Sometimes it is also recommended after a mastectomy.",
+  "translations": {
+   "zh": "放射治疗或放射肿瘤学（乳癌）"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "randomisation-537",
+  "en": "randomisation",
+  "definition": "A method used to prevent bias in research. A computer assigns patients into groups by chance, rather than the researchers or doctors choosing the groups.",
+  "translations": {
+   "zh": "随机化"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "randomised-controlled-trial-rct-538",
+  "en": "randomised controlled trial (RCT)",
+  "definition": "A trial in which participants are randomly allocated to receive the new treatment (the intervention) or the standard treatment (the control).",
+  "translations": {
+   "zh": "随机对照试验 (RCT)"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "rating-of-perceived-exertion-539",
+  "en": "rating of perceived exertion",
+  "definition": "A scientific way of telling how hard exercise is based on how it feels.",
+  "translations": {
+   "zh": "自感劳累分级"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "reconstructive-surgeon-540",
+  "en": "reconstructive surgeon",
+  "definition": "A doctor specialising in surgery to restore skin and tissue to near-normal appearance and function. Also known as a Plastic Surgeon.",
+  "translations": {
+   "zh": "整形外科医师"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "recovery-room-541",
+  "en": "recovery room",
+  "definition": "A hospital room for the care of patients immediately after surgery.",
+  "translations": {
+   "zh": "恢复室"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "rectal-bleeding-542",
+  "en": "rectal bleeding",
+  "definition": "Bleeding from the anus.",
+  "translations": {
+   "zh": "直肠出血"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "rectal-cancer-543",
+  "en": "rectal cancer",
+  "definition": "Cancer that occurs in the rectum.",
+  "translations": {
+   "zh": "直肠癌"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "recurrence-544",
+  "en": "recurrence",
+  "definition": "The return of cancer after a time of remission.",
+  "translations": {
+   "zh": "复发"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "recurrence-breast-cancer-545",
+  "en": "recurrence (breast cancer)",
+  "definition": "The return of breast cancer after a time of remission. Can be local recurrence (in the same breast or same side chest wall) or distant recurrence (spread to other parts of the body, also known as metastases).",
+  "translations": {
+   "zh": "复发（乳癌）"
+  },
+  "sourcePages": {
+   "zh": 59
+  }
+ },
+ {
+  "id": "recurrent-cancer-546",
+  "en": "recurrent cancer",
+  "definition": "A cancer that grows from the cells of a primary cancer that have evaded treatment.",
+  "translations": {
+   "zh": "复发癌"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "referral-547",
+  "en": "referral",
+  "definition": "The act of referring someone or something for consultation, review, or further action.",
+  "translations": {
+   "zh": "转介"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "referred-pain-548",
+  "en": "referred pain",
+  "definition": "Pain that is felt away from the area that is actually causing the pain.",
+  "translations": {
+   "zh": "牵涉性疼痛"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "reflux-549",
+  "en": "reflux",
+  "definition": "When stomach acid is released back up into the oesophagus. May cause a sensation of burning or discomfort in the oesophagus",
+  "translations": {
+   "zh": "胃酸倒流"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "refractory-disease-550",
+  "en": "refractory disease",
+  "definition": "Disease that does not respond to treatment. Also called resistant disease.",
+  "translations": {
+   "zh": "难治病"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "registered-health-professional-551",
+  "en": "registered health professional",
+  "definition": "A health care provider who is required to be registered and approved by the government before working in their field.",
+  "translations": {
+   "zh": "注册医护专业人员"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "registrar-552",
+  "en": "registrar",
+  "definition": "An experienced doctor responsible for the care of a number of patients with the assistance of junior doctors (residents). A registrar sits below more senior surgeons, physicians or consultants.",
+  "translations": {
+   "zh": "专科住院医师"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "registration-board-553",
+  "en": "registration board",
+  "definition": "A board which is authorised by the government to oversee both the registration and professional standards of health care providers.",
+  "translations": {
+   "zh": "注册管理局"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "rehabilitation-554",
+  "en": "rehabilitation",
+  "definition": "Programs which help to restore people to independence and a full, productive life after illness or injury. May include the use of prostheses, physiotherapy, occupational therapy programs and/or speech pathology, counselling and emotional support, and employment retraining.",
+  "translations": {
+   "zh": "复康"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "rehabilitation-scheme-555",
+  "en": "rehabilitation scheme",
+  "definition": "A process aiming to return an employee to their previous level of work.",
+  "translations": {
+   "zh": "复健计划"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "relapse-556",
+  "en": "relapse",
+  "definition": "The return of a disease, such as cancer, after a period of remission.",
+  "translations": {
+   "zh": "复发"
+  },
+  "sourcePages": {
+   "zh": 60
+  }
+ },
+ {
+  "id": "remission-557",
+  "en": "remission",
+  "definition": "Period of time when the symptoms of the cancer reduce or disappear. May be partial remission (there has been a significant improvement in the cancer) or complete remission (when there is no evidence of active disease). Remission does not always mean that the cancer is cured.",
+  "translations": {
+   "zh": "缓解（期）"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "renal-cell-carcinoma-558",
+  "en": "renal cell carcinoma",
+  "definition": "carrying tubes within the kidney.",
+  "translations": {
+   "zh": "肾细胞癌"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "renal-sarcoma-559",
+  "en": "renal sarcoma",
+  "definition": "A rare cancer that affects the connective tissues of the kidney.",
+  "translations": {
+   "zh": "肾脏肉瘤"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "rescue-treatment-560",
+  "en": "rescue treatment",
+  "definition": "A treatment given after a tumour has not responded to other treatments, or any treatment given after cancer recurrence. Also called salvage treatment.",
+  "translations": {
+   "zh": "补救治疗"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "resectable-561",
+  "en": "resectable",
+  "definition": "Able to be surgically removed.",
+  "translations": {
+   "zh": "可切除的"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "resection-562",
+  "en": "resection",
+  "definition": "Surgical removal of a portion of any part of the body.",
+  "translations": {
+   "zh": "切除术"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "residual-cancer-563",
+  "en": "residual cancer",
+  "definition": "When cancer cells remain after treatment has been given.",
+  "translations": {
+   "zh": "残余癌"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "respiratory-564",
+  "en": "respiratory",
+  "definition": "The parts of the body involved in breathing, including the nose, mouth, throat, trachea (windpipe), and lungs.",
+  "translations": {
+   "zh": "呼吸系统"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "resuscitation-565",
+  "en": "resuscitation",
+  "definition": "The process of reviving someone who appears to be dead. For example, by heart massage or artificial respiration.",
+  "translations": {
+   "zh": "复苏（术）"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "retinoblastoma-566",
+  "en": "retinoblastoma",
+  "definition": "An eye cancer that begins in the back of the eye (retina), most commonly in children.",
+  "translations": {
+   "zh": "视网膜母细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "retrospective-study-567",
+  "en": "retrospective study",
+  "definition": "Research that looks at what has happened in the past to gain an understanding about why something is occurring in the present.",
+  "translations": {
+   "zh": "回顾性研究"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "risk-568",
+  "en": "risk",
+  "definition": "A measure of how likely a person is to develop a disease or a side effect.",
+  "translations": {
+   "zh": "风险"
+  },
+  "sourcePages": {
+   "zh": 61
+  }
+ },
+ {
+  "id": "risk-assessment-569",
+  "en": "risk assessment",
+  "definition": "A process where a health professional will determine both the likelihood of an outcome based on an assessment of factors they know about cancer, its treatment, and individual characteristics. For example, they may consider the risk of recurrence, side effects, or changes to quality of life if a patient receives chemotherapy alone, or with radiation therapy.",
+  "translations": {
+   "zh": "风险评估"
+  },
+  "sourcePages": {
+   "zh": 62
+  }
+ },
+ {
+  "id": "risk-factor-570",
+  "en": "risk factor",
+  "definition": "A substance or condition that increases an individual's chances of getting a particular type of cancer.",
+  "translations": {
+   "zh": "风险因素"
+  },
+  "sourcePages": {
+   "zh": 62
+  }
+ },
+ {
+  "id": "rupture-571",
+  "en": "rupture",
+  "definition": "When something breaks or splits open. For example, when a pouch created to store urine breaks .",
+  "translations": {
+   "zh": "破裂"
+  },
+  "sourcePages": {
+   "zh": 62
+  }
+ },
+ {
+  "id": "salvage-treatment-572",
+  "en": "salvage treatment",
+  "definition": "See rescue treatment.",
+  "translations": {
+   "zh": "补救治疗"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "sarcoma-573",
+  "en": "sarcoma",
+  "definition": "A type of cancer that begins in bone or soft tissue, including cartilage, fat, muscle, blood vessels and other connective tissue.",
+  "translations": {
+   "zh": "肉瘤"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "scan-574",
+  "en": "scan",
+  "definition": "Pictures of structures inside the body, used to diagnose, stage and monitor disease.",
+  "translations": {
+   "zh": "扫描检查"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "screening-575",
+  "en": "screening",
+  "definition": "Checking for disease when there are no symptoms.",
+  "translations": {
+   "zh": "筛查"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "second-hand-smoke-576",
+  "en": "second hand smoke",
+  "definition": "The combination of exhaled mainstream smoke and sidestream smoke.",
+  "translations": {
+   "zh": "二手烟"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "second-opinion-577",
+  "en": "second opinion",
+  "definition": "condition, and offer other treatment options.",
+  "translations": {
+   "zh": "第二（医疗）意见"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "secondary-breast-cancer-578",
+  "en": "secondary breast cancer",
+  "definition": "See metastatic breast cancer.",
+  "translations": {
+   "zh": "继发性乳癌"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "secondary-cancer-579",
+  "en": "secondary cancer",
+  "definition": "See metastatic cancer.",
+  "translations": {
+   "zh": "继发性癌症"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "secondary-health-care-580",
+  "en": "secondary health care",
+  "definition": "Medical care provided by a specialist or facility through referral by a primary care physician.",
+  "translations": {
+   "zh": "二级医疗护理"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "secretion-581",
+  "en": "secretion",
+  "definition": "The release of a substance.",
+  "translations": {
+   "zh": "分泌"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "seizure-fit-or-convulsion-582",
+  "en": "seizure (fit or convulsion)",
+  "definition": "A brief change in function of part or all of the brain due to abnormal electrical activity. There may include a temporary loss of consciousness and/or involuntary movement of muscles or the experience of unusual physical or mental sensations.",
+  "translations": {
+   "zh": "发作（痉挛或抽搐）"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "seminoma-583",
+  "en": "seminoma",
+  "definition": "A type of testicular cancer.",
+  "translations": {
+   "zh": "精原细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 63
+  }
+ },
+ {
+  "id": "sentinel-lymph-node-biopsy-584",
+  "en": "sentinel lymph node biopsy",
+  "definition": "A procedure where the sentinel lymph nodes (first lymph node to which cancer is likely to spread) are removed and examined for the presence of cancer.",
+  "translations": {
+   "zh": "前哨淋巴结活检"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "seroma-585",
+  "en": "seroma",
+  "definition": "Fluid that collects in or around a scar after surgery.",
+  "translations": {
+   "zh": "血清肿"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "s-zary-syndrome-lymphoma-586",
+  "en": "Sézary syndrome (lymphoma)",
+  "definition": "An erythrodermic form of cutaneous T-Cell lymphoma (CTCL).",
+  "translations": {
+   "zh": "塞扎里综合征（淋巴癌的一种）"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "side-effect-587",
+  "en": "side effect",
+  "definition": "Something that occurs when treatment affects healthy tissues or organs. Common side effects of cancer treatment include fatigue, pain, nausea, vomiting, decreased blood cell counts, hair loss, and mouth sores.",
+  "translations": {
+   "zh": "副作用"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "sigmoidoscopy-588",
+  "en": "sigmoidoscopy",
+  "definition": "A procedure to examine the sigmoid colon using a flexible tube with a light on it. It helps the doctor check for ulcers, abnormal cells, polyps or cancer. Also called a flexible sigmoidoscopy.",
+  "translations": {
+   "zh": "乙状结肠镜检查"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "signet-ring-tumour-589",
+  "en": "signet-ring tumour",
+  "definition": "A highly malignant type of tumour typically found in the glandular cells that line the digestive organs. The cells resemble signet rings when examined under a microscope.",
+  "translations": {
+   "zh": "印戒癌"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "skin-cancer-590",
+  "en": "skin cancer",
+  "definition": "A type of cancer that occurs in the tissues of the skin. Types include melanoma, basal cell carcinoma, squamous cell carcinoma and neuroendocrine carcinoma of the skin.",
+  "translations": {
+   "zh": "皮肤癌"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "slow-release-medicine-591",
+  "en": "slow release medicine",
+  "definition": "See modified release medicine.",
+  "translations": {
+   "zh": "缓释药物"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "small-bowel-cancer-592",
+  "en": "small bowel cancer",
+  "definition": "An uncommon type of cancer that occurs in the small intestine. Types include adenocarcinoma, carcinoid tumours and sarcoma, including gastrointestinal stromal tumour (GIST).",
+  "translations": {
+   "zh": "小肠癌"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "small-cell-carcinoma-593",
+  "en": "small cell carcinoma",
+  "definition": "A fast-growing type of lung cancer commonly caused by smoking. May also be referred to as oat cell cancer",
+  "translations": {
+   "zh": "小细胞癌"
+  },
+  "sourcePages": {
+   "zh": 64
+  }
+ },
+ {
+  "id": "small-cell-lung-cancer-sclc-594",
+  "en": "small cell lung cancer (SCLC)",
+  "definition": "A type of lung cancer. There are two types: small cell carcinoma (oat cell cancer) and combined small cell carcinoma.",
+  "translations": {
+   "zh": "小细胞肺癌"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "small-lymphocytic-lymphoma-595",
+  "en": "small lymphocytic lymphoma",
+  "definition": "A slow-growing type of non-Hodgkin lymphoma in which too many immature lymphocytes (white blood cells) are found mostly in the lymph nodes. Also called SLL and well-differentiated lymphocytic lymphoma.",
+  "translations": {
+   "zh": "小淋巴细胞性淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "smear-test-596",
+  "en": "smear test",
+  "definition": "A test carried out on a sample of cells from the cervix to check for abnormalities that may be indicative of cervical cancer. Also referred to as a pap test or pap smear.",
+  "translations": {
+   "zh": "子宫颈涂片检查"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "soft-tissue-sarcoma-597",
+  "en": "soft tissue sarcoma",
+  "definition": "A type of cancer that develops from soft tissues like fat, muscle, nerves, fibrous tissues, blood vessels, or deep skin tissues.",
+  "translations": {
+   "zh": "软组织肉瘤"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "somatostatinoma-598",
+  "en": "somatostatinoma",
+  "definition": "A very rare type of neuroendocrine tumour that develops in the pancreas or small bowel.",
+  "translations": {
+   "zh": "生长抑制素瘤"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "speculum-599",
+  "en": "speculum",
+  "definition": "A metal instrument that is used to dilate an orifice or canal in the body to allow inspection.",
+  "translations": {
+   "zh": "金属镜"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "spinal-cord-tumours-600",
+  "en": "spinal cord tumours",
+  "definition": "A type of tumour that develops within the spinal canal or within the bones of the spine. May be benign or malignant.",
+  "translations": {
+   "zh": "脊髓肿瘤"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "spinal-tap-601",
+  "en": "spinal tap",
+  "definition": "See lumbar puncture.",
+  "translations": {
+   "zh": "腰椎穿刺"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "sporadic-cancer-602",
+  "en": "sporadic cancer",
+  "definition": "Cancer occurring in an individual without a family history of cancer.",
+  "translations": {
+   "zh": "偶发癌"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "squamous-cell-603",
+  "en": "squamous cell",
+  "definition": "One of the three types of cells that make up the skin's epidermis (top) layer.",
+  "translations": {
+   "zh": "鳞状细胞"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "squamous-cell-carcinoma-scc-604",
+  "en": "squamous cell carcinoma (SCC)",
+  "definition": "A type of cancer found most commonly on skin, but also in inner linings of the body, for example, a lung.",
+  "translations": {
+   "zh": "鳞状细胞癌（SCC）"
+  },
+  "sourcePages": {
+   "zh": 65
+  }
+ },
+ {
+  "id": "staging-605",
+  "en": "staging",
+  "definition": "The process of measuring how far a cancer has spread when it is first diagnosed. It often involves having scans and other tests.",
+  "translations": {
+   "zh": "（癌症）分期"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "standard-treatment-606",
+  "en": "standard treatment",
+  "definition": "The best proven treatment, based on results of past research.",
+  "translations": {
+   "zh": "标准治疗"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "standardisation-607",
+  "en": "standardisation",
+  "definition": "The adoption of generally accepted uniform procedures, parts, dimensions, or materials that directly affect the design of a product, project or a service.",
+  "translations": {
+   "zh": "标准化"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stem-cell-608",
+  "en": "stem cell",
+  "definition": "",
+  "translations": {
+   "zh": "干细胞"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stem-cell-transplant-609",
+  "en": "stem cell transplant",
+  "definition": "A treatment in which diseased blood cells are destroyed by high-dose chemotherapy or radiotherapy, then replaced by healthy stem cells. The healthy stem cells may come from the bone marrow (bone marrow transplant), from the bloodstream (peripheral blood stem cell transplant) or from the umbilical cord blood (cord blood transplant).",
+  "translations": {
+   "zh": "干细胞移植"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stent-610",
+  "en": "stent",
+  "definition": "A device placed in a blood vessel or other passage in the body to keep the structure open.",
+  "translations": {
+   "zh": "支架"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "steroids-611",
+  "en": "steroids",
+  "definition": "A class of drugs that are mostly used to reduce inflammation.",
+  "translations": {
+   "zh": "类固醇"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stoma-612",
+  "en": "stoma",
+  "definition": "An artificial opening into the body created by surgery to act as an exit for body wastes.",
+  "translations": {
+   "zh": "造口"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stoma-bag-613",
+  "en": "stoma bag",
+  "definition": "A bag or pouch used to cover a stoma and collect urine or faeces.",
+  "translations": {
+   "zh": "造口袋"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stomach-cancer-614",
+  "en": "stomach cancer",
+  "definition": "A type of cancer that occurs in the tissue of the stomach. It often starts in the cells that line the mucosa.",
+  "translations": {
+   "zh": "胃癌"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stomal-therapy-nurse-615",
+  "en": "stomal therapy nurse",
+  "definition": "A registered nurse who specialises in caring for people who have stomas.",
+  "translations": {
+   "zh": "造口护理护士"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stomatitis-616",
+  "en": "stomatitis",
+  "definition": "When the mucous membrane lining the mouth becomes inflamed and ulcers form.",
+  "translations": {
+   "zh": "口腔炎"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "stools-617",
+  "en": "stools",
+  "definition": "The bulky mass of waste matter that leaves the body through the anus. Also known as faeces.",
+  "translations": {
+   "zh": "粪便"
+  },
+  "sourcePages": {
+   "zh": 66
+  }
+ },
+ {
+  "id": "subcutaneous-618",
+  "en": "subcutaneous",
+  "definition": "Beneath the skin.",
+  "translations": {
+   "zh": "皮下的"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "submucosa-619",
+  "en": "submucosa",
+  "definition": "The layer of the digestive system next to the mucosa. It has glandular cells that produce mucus and moisten the mucosa.",
+  "translations": {
+   "zh": "黏膜下层"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "superficial-skin-cancer-620",
+  "en": "superficial skin cancer",
+  "definition": "A type of cancer that only affects cells in the top layer of the skin. It is not invasive.",
+  "translations": {
+   "zh": "表层皮肤癌"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "support-group-621",
+  "en": "support group",
+  "definition": "A group of people who an individual can rely for the provision of emotional caring and concern, and reinforcement of a sense of personal worth and value.",
+  "translations": {
+   "zh": "支持群组"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "supportive-care-622",
+  "en": "supportive care",
+  "definition": "Improving the comfort and quality of life for people with cancer.",
+  "translations": {
+   "zh": "支持性护理"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "suppository-623",
+  "en": "suppository",
+  "definition": "A small plug of medicine inserted into the rectum or vagina.",
+  "translations": {
+   "zh": "栓剂"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "supra-pubic-catheter-624",
+  "en": "supra-pubic catheter",
+  "definition": "A catheter inserted directly into the bladder through an incision made above the pubic bone and below the bellybutton.",
+  "translations": {
+   "zh": "耻骨上导管"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "surgeon-625",
+  "en": "surgeon",
+  "definition": "A doctor who specialises in performing surgery. For example, to remove cancerous tissue.",
+  "translations": {
+   "zh": "外科医师"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "surgery-626",
+  "en": "surgery",
+  "definition": "Treatment that involves an operation. This may involve removal of tissue, change in the organisation of the anatomy or placement of prostheses.",
+  "translations": {
+   "zh": "外科手术"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "surgical-oncologist-627",
+  "en": "surgical oncologist",
+  "definition": "A doctor who specialises in the surgical treatment of cancer.",
+  "translations": {
+   "zh": "肿瘤外科医师"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "surveillance-cancer-628",
+  "en": "surveillance (cancer)",
+  "definition": "When a person does not receive immediate treatment, but instead has their health monitored regularly, with the option of future treatment if necessary. Also called active surveillance.",
+  "translations": {
+   "zh": "监测（癌症）"
+  },
+  "sourcePages": {
+   "zh": 67
+  }
+ },
+ {
+  "id": "survival-rate-629",
+  "en": "survival rate",
+  "definition": "The percentage of people in a study or treatment group who are still alive for a certain period of time after they were diagnosed with or started treatment for a disease, such as cancer. Often stated as a five-year survival rate, which is the percentage of people in a study or treatment group who are alive five years after their diagnosis or the start of treatment. Also called overall survival rate.",
+  "translations": {
+   "zh": "存活率"
+  },
+  "sourcePages": {
+   "zh": 68
+  }
+ },
+ {
+  "id": "survivorship-630",
+  "en": "survivorship",
+  "definition": "Living with, through, and beyond cancer. According to this definition, cancer survivorship begins at diagnosis and includes people who continue to have treatment over the long term, to either reduce the risk of recurrence or to manage chronic disease.",
+  "translations": {
+   "zh": "存活"
+  },
+  "sourcePages": {
+   "zh": 68
+  }
+ },
+ {
+  "id": "syringe-driver-631",
+  "en": "syringe driver",
+  "definition": "A small, portable pump that is used in palliative care to deliver pain relief and other drugs (often a mixture of two or three drugs).",
+  "translations": {
+   "zh": "注射器泵"
+  },
+  "sourcePages": {
+   "zh": 68
+  }
+ },
+ {
+  "id": "systemic-treatment-632",
+  "en": "systemic treatment",
+  "definition": "Drugs that treat the whole body. For example, chemotherapy, hormone therapy or targeted therapy.",
+  "translations": {
+   "zh": "全身治疗"
+  },
+  "sourcePages": {
+   "zh": 68
+  }
+ },
+ {
+  "id": "tamoxifen-nolvadex-633",
+  "en": "Tamoxifen (Nolvadex)",
+  "definition": "A hormone therapy used to treat early and advanced stage breast cancers that are hormone receptor positive. Tamoxifen slows or stops the growth of these tumours by blocking oestrogen from attaching to hormone receptors in the cancer cells.",
+  "translations": {
+   "zh": "他莫昔芬（诺瓦得士锭）"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "targeted-therapies-634",
+  "en": "targeted therapies",
+  "definition": "Drugs that stop the growth of particular types of cancer cells, without harming normal cells. Herceptin and Tykerb are examples of a targeted therapy. Also called biological therapies.",
+  "translations": {
+   "zh": "靶向治疗"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "t-cell-635",
+  "en": "T-cell",
+  "definition": "A type of white blood cell. T-cells regulate the body's immune system in its job of fighting infection and other harmful things in the body.",
+  "translations": {
+   "zh": "T细胞"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "t-cell-lymphoma-636",
+  "en": "T-cell lymphoma",
+  "definition": "A type of cancer that forms in T-cells. Most T-cell lymphomas are non-Hodgkin lymphomas.",
+  "translations": {
+   "zh": "T细胞淋巴瘤"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "tens-transcutaneous-electric-nerve-stimulation-637",
+  "en": "TENS (transcutaneous electric nerve stimulation)",
+  "definition": "A pain relief technique involving applying a mild electric current to the skin pain occurs.",
+  "translations": {
+   "zh": "TENS（经皮电刺激神经疗法）"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "terminal-638",
+  "en": "terminal",
+  "definition": "When illness or cancer cannot be cured and will eventually cause death.",
+  "translations": {
+   "zh": "末期"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "terminal-illness-terminal-cancer-639",
+  "en": "terminal illness/terminal cancer",
+  "definition": "An illness or cancer that cannot be cured. Also called end-stage cancer.",
+  "translations": {
+   "zh": "末期疾病/末期癌症"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "testicular-cancer-640",
+  "en": "testicular cancer",
+  "definition": "A type of cancer that develops in a testicle. Usually only one testicle is affected, but in some cases both are affected. Also known as cancer of the testis.",
+  "translations": {
+   "zh": "睾丸癌"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "thrombocytopenia-641",
+  "en": "thrombocytopenia",
+  "definition": "A condition in which there is a lower-than-normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.",
+  "translations": {
+   "zh": "血小板减少症"
+  },
+  "sourcePages": {
+   "zh": 69
+  }
+ },
+ {
+  "id": "thrombosis-642",
+  "en": "thrombosis",
+  "definition": "A blood clot in a deep vein, usually in the legs.",
+  "translations": {
+   "zh": "血栓形成"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "thymoma-and-thymic-carcinoma-643",
+  "en": "thymoma and thymic carcinoma",
+  "definition": "Where cancer cells form on the outside surface of the thymus. Thymoma is linked with myasthenia gravis and other autoimmune diseases.",
+  "translations": {
+   "zh": "胸腺瘤与胸腺癌"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "thyroid-cancer-644",
+  "en": "thyroid cancer",
+  "definition": "A type of cancer that occurs in the thyroid.",
+  "translations": {
+   "zh": "甲状腺癌"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "tissue-banking-645",
+  "en": "tissue banking",
+  "definition": "A process involving harvesting, processing, preservation, storage and distribution of various kinds of tissue for clinical and experimental practice. It may also be used to talk about taking tissue to save for future infertility treatment.",
+  "translations": {
+   "zh": "建立组织库"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "tissue-biopsy-646",
+  "en": "tissue biopsy",
+  "definition": "Examination of tissue which has been removed from the body under a microscope for abnormalities.",
+  "translations": {
+   "zh": "组织活检"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "tissue-647",
+  "en": "tissue",
+  "definition": "A collection of cells that make up each piece, or organ, of the body.",
+  "translations": {
+   "zh": "组织"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "topical-treatment-648",
+  "en": "topical treatment",
+  "definition": "Treatment that is applied to an area of the skin as a cream, lotion or gel.",
+  "translations": {
+   "zh": "局部治疗"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "total-body-irradiation-649",
+  "en": "total body irradiation",
+  "definition": "Radiotherapy to the entire body. Given so that all cells in the body receive the same amount of radiation.",
+  "translations": {
+   "zh": "全身照射"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "toxicology-650",
+  "en": "toxicology",
+  "definition": "The study of poisonous substances. A branch of pharmacology.",
+  "translations": {
+   "zh": "毒理学"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "tracheostomy-651",
+  "en": "tracheostomy",
+  "definition": "An operation in which a hole is made at the base of the neck into the trachea, and through which a tube is passed to create a clear airway.",
+  "translations": {
+   "zh": "气管造口术"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "transarterial-chemoembolisation-tace-652",
+  "en": "transarterial chemoembolisation (TACE)",
+  "definition": "When chemotherapy is injected directly into a tumour and the blood vessels are closed off so the cancer is starved of oxygen and nutrients.",
+  "translations": {
+   "zh": "肝动脉化疗栓塞（TACE）"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "transfusion-653",
+  "en": "transfusion",
+  "definition": "The process of transferring body fluid, such as blood, from one person into another.",
+  "translations": {
+   "zh": "输（血或液）"
+  },
+  "sourcePages": {
+   "zh": 70
+  }
+ },
+ {
+  "id": "transitional-cell-carcinoma-654",
+  "en": "transitional cell carcinoma",
+  "definition": "A type of cancer within the renal pelvis and ureter.",
+  "translations": {
+   "zh": "移行细胞癌"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "transplant-655",
+  "en": "transplant",
+  "definition": "The process of taking living tissue or an organ and implanting it in another part of the body or in another body.",
+  "translations": {
+   "zh": "移植"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "trephine-biopsy-656",
+  "en": "trephine biopsy",
+  "definition": "See bone marrow biopsy.",
+  "translations": {
+   "zh": "环钻活检"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "trial-of-void-657",
+  "en": "trial of void",
+  "definition": "Assesses the ability of the bladder to empty.",
+  "translations": {
+   "zh": "排尿测试"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "triple-negative-breast-cancer-658",
+  "en": "triple negative breast cancer",
+  "definition": "A form of breast cancer that has no hormone or HER2 receptors. This means that neither oestrogen, progesterone nor the HER2 protein help the cancer to grow.",
+  "translations": {
+   "zh": "三阴性乳腺癌"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "tumour-659",
+  "en": "tumour",
+  "definition": "An abnormal growth or mass of tissue. May be benign or malignant.",
+  "translations": {
+   "zh": "肿瘤"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "tumour-markers-660",
+  "en": "tumour markers",
+  "definition": "Substances found at higher than normal levels in the blood, urine, or body tissue of some people with cancer. Also called biomarkers",
+  "translations": {
+   "zh": "肿瘤标志物"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "tumour-node-metastasis-tnm-system-661",
+  "en": "tumour node metastasis (TNM) system",
+  "definition": "A staging system used by clinicians to describe how advanced a particular cancer is. This system also informs the type of treatment given.",
+  "translations": {
+   "zh": "肿瘤淋巴结转移（TNM）系统"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "tumour-progression-662",
+  "en": "tumour progression",
+  "definition": "The course of cancer, as it becomes worse or spreads in the body.",
+  "translations": {
+   "zh": "肿瘤进展"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "tumour-regression-663",
+  "en": "tumour regression",
+  "definition": "A decrease in the size of a tumour or the extent of cancer cells in the body.",
+  "translations": {
+   "zh": "肿瘤退化"
+  },
+  "sourcePages": {
+   "zh": 71
+  }
+ },
+ {
+  "id": "ulcerative-colitis-664",
+  "en": "ulcerative colitis",
+  "definition": "Chronic inflammation of the colon that produces ulcers in its lining. Symptoms include abdominal pain, cramps, and loose discharges of pus, blood, and mucus from the bowel.",
+  "translations": {
+   "zh": "溃疡性结肠炎"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "ultrasound-ultrasound-scan-665",
+  "en": "ultrasound, ultrasound scan",
+  "definition": "An imaging method that uses high-frequency sound waves to produce images of structures within the body. The images provide information for diagnosing and treating a variety of diseases and conditions",
+  "translations": {
+   "zh": "超声波、超声波扫描检查"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "ultraviolet-uv-radiation-666",
+  "en": "ultraviolet (UV) radiation",
+  "definition": "radiation is the main cause of skin cancer.",
+  "translations": {
+   "zh": "紫外线（UV）辐射"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "unregistered-health-practitioner-667",
+  "en": "unregistered health practitioner",
+  "definition": "A health care provider who doesn't need to be registered with a government registration board but can practise in their field as long as they meet professional requirements.",
+  "translations": {
+   "zh": "非注册医疗保健人员"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "unresectable-668",
+  "en": "unresectable",
+  "definition": "Unable to be removed with surgery. Also called irresectable or inoperable.",
+  "translations": {
+   "zh": "不可切除的"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "urethral-cancer-669",
+  "en": "urethral cancer",
+  "definition": "A rare type of cancer that occurs in the urethra, the tube that carries urine from the bladder to outside the body. The most common type is squamous cell carcinoma.",
+  "translations": {
+   "zh": "尿道癌"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "urinary-incontinence-670",
+  "en": "urinary incontinence",
+  "definition": "The inability to hold urine in the bladder due to loss of voluntary control over the urinary sphincters resulting in the involuntary passage of urine.",
+  "translations": {
+   "zh": "尿失禁"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "urologist-671",
+  "en": "urologist",
+  "definition": "A doctor who specialises in diseases of the urinary or urogenital tract",
+  "translations": {
+   "zh": "泌尿科医师"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "urothelial-carcinoma-672",
+  "en": "urothelial carcinoma",
+  "definition": "Cancer that begins in urothelial cells, which line the urethra, bladder, ureters, renal pelvis, and some other organs. Also called transitional cell cancer.",
+  "translations": {
+   "zh": "尿路上皮癌"
+  },
+  "sourcePages": {
+   "zh": 72
+  }
+ },
+ {
+  "id": "uterine-cancer-673",
+  "en": "uterine cancer",
+  "definition": "A type of cancer that develops in the tissues of the uterus, the small, hollow, pear-shaped organ in a woman's pelvis in which a foetus develops. There are two types of uterine cancer: endometrial cancer (which begins in cells lining the uterus) and uterine sarcoma (a rare cancer that begins in muscle or other tissues in the uterus).",
+  "translations": {
+   "zh": "子宫癌"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "uterine-sarcoma-674",
+  "en": "uterine sarcoma",
+  "definition": "A type of cancer that develops in the muscles of the uterus or other tissues that support the uterus.",
+  "translations": {
+   "zh": "子宫肉瘤"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vaccine-675",
+  "en": "vaccine",
+  "definition": "A substance or group of substances meant to cause the immune system to respond to a tumour or to microorganisms, such as bacteria or viruses",
+  "translations": {
+   "zh": "疫苗"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vaginal-cancer-676",
+  "en": "vaginal cancer",
+  "definition": "A type of cancer that occurs in the vagina, the canal leading from the cervix (the opening of uterus) to the outside of the body.",
+  "translations": {
+   "zh": "阴道癌"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vaginal-dilator-677",
+  "en": "vaginal dilator",
+  "definition": "Tube-shaped devices designed to stretch the vagina. Often made of plastic and come in various sizes.",
+  "translations": {
+   "zh": "阴道扩张器"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vaginismus-678",
+  "en": "vaginismus",
+  "definition": "The involuntary spasm, contraction or reflex of the muscles surrounding the entrance to the vagina, making penetration impossible and/or painful.",
+  "translations": {
+   "zh": "阴道痉挛"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vas-deferens-679",
+  "en": "vas deferens",
+  "definition": "The tube that carries the sperm out of the testes.",
+  "translations": {
+   "zh": "输精管"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vascular-tumours-soft-tissue-sarcoma-680",
+  "en": "vascular tumours (soft tissue sarcoma)",
+  "definition": "A type of tumour formed from blood vessels. For example, hemangioma, Lymphangioma, hemangioendothelioma, Kaposi sarcoma, angiosarcoma, hemangioblastoma,",
+  "translations": {
+   "zh": "脉管肿瘤（软组织肉瘤）"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "venous-access-device-681",
+  "en": "venous access device",
+  "definition": "A catheter or other intravenous device surgically placed under the skin to provide access to veins.",
+  "translations": {
+   "zh": "静脉接入装置"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "verrucous-carcinoma-682",
+  "en": "verrucous carcinoma",
+  "definition": "A rare, slow-growing type of vulvar cancer that looks like a large wart.",
+  "translations": {
+   "zh": "疣状癌"
+  },
+  "sourcePages": {
+   "zh": 73
+  }
+ },
+ {
+  "id": "vipomas-683",
+  "en": "VIPomas",
+  "definition": "A rare neuroendocrine tumour of the endocrine tissue especially found in the pancreas that secretes vasoactive intestinal peptide (VIP).",
+  "translations": {
+   "zh": "血管活性肠肽瘤"
+  },
+  "sourcePages": {
+   "zh": 74
+  }
+ },
+ {
+  "id": "vital-signs-684",
+  "en": "vital signs",
+  "definition": "Signs of life, specifically: pulse rate, respiratory rate, body temperature, and blood pressure.",
+  "translations": {
+   "zh": "生命体征"
+  },
+  "sourcePages": {
+   "zh": 74
+  }
+ },
+ {
+  "id": "vitamins-685",
+  "en": "vitamins",
+  "definition": "Nutrients that the body needs in small amounts to function and stay healthy. Sources of vitamins are plant and animal food products and dietary supplements.",
+  "translations": {
+   "zh": "维生素"
+  },
+  "sourcePages": {
+   "zh": 74
+  }
+ },
+ {
+  "id": "vulvar-cancer-686",
+  "en": "vulvar cancer",
+  "definition": "A type of cancer that occurs in any part of the external female genitals. Most commonly develops in the labia minora (inner lips), the labia majora (outer lips), and the perineum (skin between the vagina and the anus).",
+  "translations": {
+   "zh": "外阴癌"
+  },
+  "sourcePages": {
+   "zh": 74
+  }
+ },
+ {
+  "id": "watchful-waiting-687",
+  "en": "watchful waiting",
+  "definition": "",
+  "translations": {
+   "zh": "观察等待"
+  },
+  "sourcePages": {
+   "zh": 75
+  }
+ },
+ {
+  "id": "western-medicine-688",
+  "en": "western medicine",
+  "definition": "A system in which medical doctors and other healthcare professionals (such as nurses, pharmacists, and therapists) treat symptoms and diseases using drugs, radiation, or surgery. Also called allopathic medicine, biomedicine, conventional medicine, mainstream medicine, and orthodox medicine.",
+  "translations": {
+   "zh": "西方医学"
+  },
+  "sourcePages": {
+   "zh": 75
+  }
+ },
+ {
+  "id": "wide-local-excision-689",
+  "en": "wide local excision",
+  "definition": "Surgery to cut out the cancer and some healthy tissue around it.",
+  "translations": {
+   "zh": "广泛性局部切除（术）"
+  },
+  "sourcePages": {
+   "zh": 75
+  }
+ },
+ {
+  "id": "wilms-tumour-690",
+  "en": "Wilms' tumour",
+  "definition": "A type of cancer that starts in the kidneys. It is the most common type of kidney cancer in children.",
+  "translations": {
+   "zh": "肾母细胞瘤"
+  },
+  "sourcePages": {
+   "zh": 75
+  }
+ },
+ {
+  "id": "withdrawal-symptoms-691",
+  "en": "withdrawal symptoms",
+  "definition": "The unpleasant physical reaction that accompanies the process of ceasing to take an addictive drug.",
+  "translations": {
+   "zh": "戒断症状"
+  },
+  "sourcePages": {
+   "zh": 75
+  }
+ },
+ {
+  "id": "x-ray-692",
+  "en": "X-ray",
+  "definition": "Radiation, that at low levels can be used to make images inside the body. For example, mammogram is an X-ray of the breast.",
+  "translations": {
+   "zh": "X射线"
+  },
+  "sourcePages": {
+   "zh": 75
+  }
+ }
+]
