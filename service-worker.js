@@ -1,4 +1,4 @@
-const CACHE_NAME = "pm-glossary-v2";
+const CACHE_NAME = "pm-glossary-v3";
 
 // Core app shell + data only — precached at install so the app is usable offline
 // immediately after first load. Per-language source page images (~92MB across 9
